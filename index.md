@@ -34,11 +34,4 @@ sections:
           description: JPSS-1/NOAA-20
           linktext: View
           url: ""
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
