@@ -4,29 +4,23 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: This site is under construction
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Welcome to the MSS-ASMC WIS 2.0 Portal
+      subtitle: Hero subtitle
+      background: /images/hero-banner.png
+      dropdown:
+        title: Menu
+        options:
+          - title: DATA CATALOG
+            url: "#"
+          - title: EMAIL SUBSCRIPTION
+            url: http://https://teams.microsoft.com/l/message/19:2e2b8294-e1ca-4998-811d-cfde8d997a4c_e741dcb4-31e4-4580-837b-1e3a9d8e3ef6@unq.gbl.spaces/1712641174305?context=%7B%22contextType%22%3A%22chat%22%7D
+  - infobar:
+      title: Infobar title
+      subtitle: Subtitle
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
 ---
-
