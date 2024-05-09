@@ -15,7 +15,7 @@ sections:
           - title: DATA CATALOG
             url: "#"
           - title: EMAIL SUBSCRIPTION
-            url: http://https://teams.microsoft.com/l/message/19:2e2b8294-e1ca-4998-811d-cfde8d997a4c_e741dcb4-31e4-4580-837b-1e3a9d8e3ef6@unq.gbl.spaces/1712641174305?context=%7B%22contextType%22%3A%22chat%22%7D
+            url: https://go.gov.sg/asmc-wis2-email-subscription-request-form
   - textcards:
       title: ASMC Products
       id: textcards
