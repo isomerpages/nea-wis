@@ -2,4 +2,5 @@ collections:
   l2-pages:
     output: true
     order:
+      - Satellite Images SUOMI NPP.md
       - Satellite Images JPSS 1 NOAA 20.md
