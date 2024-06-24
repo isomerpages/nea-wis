@@ -2,9 +2,9 @@ collections:
   l2-pages:
     output: true
     order:
-      - Smoke Haze Dispersion Model.md
       - Satellite Images JPSS 1 NOAA 20.md
       - Satellite Images SUOMI NPP.md
       - Hotspot Reports JPSS 1 NOAA 20.md
       - Hotspot Reports SUOMI NPP.md
       - Regional Haze Situation.md
+      - Smoke Haze Dispersion Model.md
