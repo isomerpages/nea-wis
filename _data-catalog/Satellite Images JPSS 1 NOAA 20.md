@@ -14,9 +14,7 @@ description: ""
 <p>NOAA20 JPSS-1 JPSS_satellite Fire hotspot Active fires Standard version
 True Colour RGB lat count long Southeast Asia ASEAN satellite pass FIRE
 HOTSPOTS DETECTION SMOKE HAZE</p>
-<p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a>
-</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Metadata</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -161,6 +159,13 @@ Administration"</p>
 <p>}</p>
 <p>]</p>
 <p>}</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Subscribe</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/asmc-wis2-email-subscription-request-form</a>
+</p>
 </div>
 </details>
 </div>
