@@ -1,4 +1,5 @@
 collections:
   metadata:
     output: true
-    order: []
+    order:
+      - NOAA 20 JPSS 1 VIIRS TRUE COLOUR IMAGE STANDARD VERSION.md
