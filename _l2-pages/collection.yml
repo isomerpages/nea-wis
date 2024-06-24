@@ -1,0 +1,4 @@
+collections:
+  l2-pages:
+    output: true
+    order: []
