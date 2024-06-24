@@ -1,5 +1,5 @@
 collections:
-  l2-pages:
+  data-catalog:
     output: true
     order:
       - Satellite Images JPSS 1 NOAA 20.md
