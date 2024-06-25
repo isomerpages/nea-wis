@@ -7,23 +7,17 @@ description: ""
 <h4><strong>NOAA-20/JPSS-1 ACTIVE FIRES 750M NEAR REAL-TIME VERSION</strong></h4>
 <p><strong>Abstract</strong>
 </p>
-<p><strong>[This data contains the Active Fires Environmental Data Record for JPSS-1/NOAA-20 VIIRS. The data is produced using CSPP Active Fires software. This version is produced based on the NRT data recei...</strong>
+<p>T<strong>his data contains the Active Fires Environmental Data Record for JPSS-1/NOAA-20 VIIRS. The data is produced using CSPP Active Fires software. This version is produced based on the NRT data received locally. This data is recommended for near real-time monitoring of fire hotspots.</strong>
 </p>
-<p><strong>Keywords</strong>
+<p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Email Subscription Request</a>
 </p>
-<p>NOAA-20 JPSS-1 Fire hotspot Active fires NRT version JPSS_hotspot_location
-lat count long Southeast Asia ASEAN satellite pass FIRE HOTSPOTS DETECTION
-SMOKE HAZE</p>
 <hr>
 <h4><strong>NOAA-20/JPSS-1 ACTIVE FIRES 750M STANDARD VERSION</strong></h4>
 <p><strong>Abstract</strong>
 </p>
-<p><strong>[This data contains the Active Fires Environmental Data Record for JPSS-1/NOAA-20 VIIRS. The data is produced using CSPP Active Fires software. This version is produced based on the delayed (8-12 ...</strong>
+<p><strong>This data contains the Active Fires Environmental Data Record for JPSS-1/NOAA-20 VIIRS. The data is produced using CSPP Active Fires software. This version is produced based on the delayed (8-12 hr) global VIIRS RDR data. The hotspot data is suitable for general usage.</strong>
 </p>
-<p><strong>Keywords</strong>
+<p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Email Subscription Request</a>
 </p>
-<p>NOAA-20 JPSS-1 Fire hotspot Active fires Standard version JPSS_hotspot_location
-lat count long Southeast Asia ASEAN satellite pass FIRE HOTSPOTS DETECTION
-SMOKE HAZE</p>
 <hr>
 <p></p>
