@@ -2,6 +2,7 @@ collections:
   data-catalog:
     output: true
     order:
+      - Hotspot Reports JPSS 1 NOAA 20.md
       - Hotspot Reports SUOMI NPP.md
       - Regional Haze Situation.md
       - Smoke Haze Dispersion Model.md
