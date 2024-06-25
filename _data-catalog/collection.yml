@@ -2,6 +2,7 @@ collections:
   data-catalog:
     output: true
     order:
+      - Satellite Images SUOMI NPP.md
       - Satellite Images JPSS 1 NOAA 20.md
       - Hotspot Reports JPSS 1 NOAA 20.md
       - Hotspot Reports SUOMI NPP.md
