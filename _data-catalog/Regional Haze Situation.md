@@ -7,10 +7,7 @@ description: ""
 <h4><strong>DAILY HAZE MAP IN THE ASEAN REGION</strong></h4>
 <p><strong>Abstract</strong>
 </p>
-<p><strong>[The hotspots depicted in the map are derived from the NOAA satellite and they represent locations with possible active fires. Hotspots may go undetected due to cloudy conditions or incomplete sate...</strong>
+<p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Email Subscription Request</a>
 </p>
-<p><strong>Keywords</strong>
-</p>
-<p>haze_map ASEAN hotspot space ASEAN Daily HAZE</p>
 <hr>
 <p></p>
