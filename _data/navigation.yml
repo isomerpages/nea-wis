@@ -2,7 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Data Catalog
     collection: data-catalog
-  - title: WIS2 Subscription Manager
-    url: /permalink
   - title: Contact Us
     url: /contact-us/
+  - title: FAQs
+    url: /permalink
