@@ -21,35 +21,6 @@ sections:
       id: textcards
       description: This portal provides operational information and products on the
         weather and smoke haze situation in the ASEAN region.
-      cards:
-        - title: Satellite Images
-          description: JPSS-1/NOAA-20
-          linktext: View
-          url: /satellite-images-jpss-1-noaa-20/
-        - title: Satellite Images
-          description: SUOMI-NPP
-          linktext: /satellite-images-suomi-npp/
-          url: ""
-        - title: Hotspot Reports
-          description: Suomi-NPP
-          linktext: View
-          url: /hotspot-reports-suomi-npp/
-  - textcards:
-      title: Haze
-      id: textcards
-      cards:
-        - title: Hotspot Reports
-          description: JPSS-1/NOAA-20
-          linktext: View
-          url: /hotspot-reports-jpss-1-noaa-20/
-        - title: Regional Haze Situation
-          description: ""
-          linktext: View
-          url: /regional-haze-situation/
-        - title: Smoke Haze Dispersion Model
-          description: ""
-          linktext: View
-          url: /smoke-haze-dispersion-model/
   - infopic:
       title: Satellite Images
       id: infopic
@@ -65,6 +36,7 @@ sections:
       button: View more
       url: /satellite-images-suomi-npp/
       alt: SUOMI-NPP
+      image: /images/SI_NPP.png
   - infopic:
       title: Hotspot Reports
       id: infopic
