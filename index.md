@@ -35,7 +35,7 @@ sections:
           linktext: View
           url: ""
   - textcards:
-      title: "Haze"
+      title: Haze
       id: textcards
       cards:
         - title: Hotspot Reports
