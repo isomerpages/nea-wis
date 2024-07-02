@@ -4,7 +4,25 @@ permalink: /regional-haze-situation/
 variant: tiptap
 description: ""
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <h4><strong>DAILY HAZE MAP IN THE ASEAN REGION</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/DAILY_HAZE_MAP_IN_THE_ASEAN_REGION.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Abstract</strong>
 </p>
 <p><strong>The hotspots depicted in the map are derived from the NOAA satellite and they represent locations with possible active fires. Hotspots may go undetected due to cloudy conditions or incomplete satellite pass. The 2500 ft winds (depicted by arrows) are model analysis winds.</strong>
