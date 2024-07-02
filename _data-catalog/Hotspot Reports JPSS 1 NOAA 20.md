@@ -4,7 +4,7 @@ permalink: /hotspot-reports-jpss-1-noaa-20/
 variant: markdown
 description: ""
 ---
-<table style="center">
+<table class="center">
 <colgroup>
 <col>
 <col>
