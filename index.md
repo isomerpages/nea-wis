@@ -41,13 +41,13 @@ sections:
         - title: Hotspot Reports
           description: JPSS-1/NOAA-20
           linktext: View
-          url: ""
+          url: /hotspot-reports-jpss-1-noaa-20/
         - title: Regional Haze Situation
           description: ""
           linktext: View
-          url: ""
+          url: /regional-haze-situation/
         - title: Smoke Haze Dispersion Model
           description: ""
           linktext: View
-          url: ""
+          url: /smoke-haze-dispersion-model/
 ---
