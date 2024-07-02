@@ -32,6 +32,15 @@ description: ""
 <p></p>
 <p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Email Subscription Request</a>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Metadata</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>asd</p>
+</div>
+</details>
+</div>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
@@ -192,20 +201,6 @@ description: ""
 <p></p>
 <p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Email Subscription Request</a>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Metadata</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>asd</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <hr>
 <h4></h4>
 <table style="minWidth: 50px">
