@@ -4,14 +4,14 @@ permalink: /hotspot-reports-jpss-1-noaa-20/
 variant: markdown
 description: ""
 ---
-<table class="center">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 ACTIVE FIRES 750M NEAR REAL-TIME VERSION</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
