@@ -31,7 +31,7 @@ sections:
           linktext: Learn more
           url: /hotspot-reports-jpss-1-noaa-20/
   - textcards:
-      title: Title
+      title: ""
       id: textcards
       cards:
         - title: Hotspot Reports
