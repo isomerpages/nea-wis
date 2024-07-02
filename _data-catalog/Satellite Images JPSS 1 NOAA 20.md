@@ -1799,7 +1799,7 @@ Administration</p>
 <p>ID</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>urn:x-wmo:md:sgp:asmc:jp1_viirs_truecolour_375m_jpg_nrt</p>
+<p>urn:x-wmo:md:sgp:asmc:jp1_afedr_750m_late</p>
 </td>
 </tr>
 <tr>
@@ -1807,7 +1807,8 @@ Administration</p>
 <p>Conforms To</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1856,8 +1857,7 @@ Administration</p>
 <p>Themes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>noaa20 jpss-1, jpss_satellite, fire hotspot, active fires, nrt version,
-true colour rgb</p>
+<p>noaa-20, jpss-1, fire hotspot, active fires, standard version, jpss_hotspot_location</p>
 </td>
 </tr>
 <tr>
@@ -1865,7 +1865,8 @@ true colour rgb</p>
 <p>Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1881,10 +1882,10 @@ true colour rgb</p>
 <p>Description</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This data contains the NOAA-20/JPSS-1 VIIRS True Colour RGB Image (375
-m resolution). The image is overlaid with fire hotspot data. This version
-is produced based on the NRT data received locally. This data is recommended
-for near real-time monitoring of fire hotspots.</p>
+<p>This data contains the Active Fires Environmental Data Record for JPSS-1/NOAA-20
+VIIRS. The data is produced using CSPP Active Fires software. This version
+is produced based on the delayed (8-12 hr) global VIIRS RDR data. The hotspot
+data is suitable for general usage.</p>
 </td>
 </tr>
 <tr>
@@ -1900,7 +1901,7 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Title</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NOAA-20/JPSS-1 VIIRS True Colour Image Near Real-Time Version</p>
+<p>NOAA-20/JPSS-1 Active Fires 750m Standard Version</p>
 </td>
 </tr>
 <tr>
@@ -1924,7 +1925,8 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASMC_Enquiries@nea.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1957,7 +1959,8 @@ Singapore 819643</p>
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://asmc.asean.org/home/</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://asmc.asean.org/home/</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1965,7 +1968,8 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_TRUECOLOUR_375M_JPG_NRT</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_AFEDR_750M_LATE</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1973,7 +1977,8 @@ Singapore 819643</p>
 <p>IP whitelisting request form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1981,7 +1986,7 @@ Singapore 819643</p>
 <p>Data notifications from WMO WIS2 Global Broker - Meteo France</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mqtts://everyone:everyone@globalbroker.meteo.fr:8883/</p>
+<p>mqtts://everyone:<a rel="noopener noreferrer nofollow" target="_blank">everyone@globalbroker.meteo.fr:8883</a>/</p>
 </td>
 </tr>
 <tr>
@@ -1990,12 +1995,11 @@ Singapore 819643</p>
 Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mqtts://everyone:everyone@gb.wis.cma.cn:8883/</p>
+<p>mqtts://everyone:<a rel="noopener noreferrer nofollow" target="_blank">everyone@gb.wis.cma.cn:8883</a>/</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 </div>
 </details>
 </div>
