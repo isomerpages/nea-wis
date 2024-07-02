@@ -9,13 +9,6 @@ sections:
   - hero:
       title: Welcome to the MSS-ASMC WIS 2.0 Portal
       background: /images/hero-banner.png
-      dropdown:
-        title: Menu
-        options:
-          - title: DATA CATALOG
-            url: "#"
-          - title: EMAIL SUBSCRIPTION
-            url: https://go.gov.sg/asmc-wis2-email-subscription-request-form
   - textcards:
       title: ASMC Products
       id: textcards
