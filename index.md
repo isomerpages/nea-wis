@@ -9,11 +9,43 @@ sections:
   - hero:
       title: Welcome to the MSS-ASMC WIS 2.0 Portal
       background: /images/hero-banner.png
-  - textcards:
+  - infobar:
       title: ASMC Products
-      id: textcards
+      id: infobar
       description: This portal provides operational information and products on the
         weather and smoke haze situation in the ASEAN region.
+  - textcards:
+      title: ""
+      id: textcards
+      cards:
+        - title: Satellite Images
+          description: JPSS-1/NOAA-20
+          linktext: View
+          url: /satellite-images-jpss-1-noaa-20/
+        - title: Satellite Images
+          description: SUOMI-NPP
+          linktext: View
+          url: /satellite-images-suomi-npp/
+        - title: Hotspot Reports
+          description: JPSS-1/NOAA-20
+          linktext: Learn more
+          url: /hotspot-reports-jpss-1-noaa-20/
+  - textcards:
+      title: ""
+      id: textcards
+      cards:
+        - title: Hotspot Reports
+          description: SUOMI-NPP
+          linktext: View
+          url: ""
+        - title: Regional Haze Situation
+          description: ""
+          linktext: View
+          url: ""
+        - title: Smoke Haze Dispersion Model
+          description: ""
+          linktext: View
+          url: ""
   - infopic:
       title: Satellite Images
       id: infopic
