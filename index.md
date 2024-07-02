@@ -52,11 +52,47 @@ sections:
           url: /smoke-haze-dispersion-model/
   - infopic:
       title: Satellite Images
-      subtitle: Add an image and text
       id: infopic
       description: JPSS-1/NOAA-20
       button: View More
       url: /satellite-images-jpss-1-noaa-20/
       image: /images/download.png
-      alt: Image alt text
+      alt: JPSS-1/NOAA-20
+  - infopic:
+      title: Satellite Images
+      id: infopic
+      description: SUOMI-NPP
+      button: View more
+      url: /satellite-images-suomi-npp/
+      alt: SUOMI-NPP
+  - infopic:
+      title: Hotspot Reports
+      id: infopic
+      description: Infopic description
+      button: JPSS-1/NOAA-20
+      url: /hotspot-reports-jpss-1-noaa-20/
+      image: /images/Hotspot_report_JPSSN20.png
+      alt: JPSS-1/NOAA-20
+  - infopic:
+      title: Hotspot Reports
+      id: infopic
+      description: SUOMI-NPP
+      button: View More
+      url: /hotspot-reports-suomi-npp/
+      image: /images/Hotspot_report_SNPP.png
+      alt: SUOMI-NPP
+  - infopic:
+      title: Regional Haze Situation
+      id: infopic
+      button: View More
+      url: /regional-haze-situation/
+      image: /images/Regional_haze_situation.png
+      alt: Regional haze situation
+  - infopic:
+      title: Smoke Haze Dispersion Model
+      id: infopic
+      button: View More
+      url: /smoke-haze-dispersion-model/
+      image: /images/Smoke_haze_dispersion.png
+      alt: Smoke Haze Dispersion Model
 ---
