@@ -1,7 +1,7 @@
 ---
 title: Satellite Images JPSS 1 NOAA 20
 permalink: /satellite-images-jpss-1-noaa-20/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4></h4>
@@ -18,7 +18,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Satellite JPSS NOAA/NOAA_20_JPSS_1_VIIRS_TRUE_COLOUR_IMAGE_STANDARD_VERSION.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_TRUE_COLOUR_IMAGE_STANDARD_VERSION.png">
 </div>
 </td>
 </tr>
@@ -44,15 +44,15 @@ description: ""
 <h4><strong>NOAA-20/JPSS-1 VIIRS SMOKE HAZE RGB IMAGE STANDARD VERSION</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Satellite JPSS NOAA/NOAA_20_JPSS_1_VIIRS_SMOKE_HAZE_RGB_IMAGE_STANDARD_VERSION.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_SMOKE_HAZE_RGB_IMAGE_STANDARD_VERSION.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Abstract</strong>
+<p><strong>bstract</strong>
 </p>
 <p><strong>This data contains the NOAA-20/JPSS-1 VIIRS Smoke Haze RGB Image (375 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the delayed (8-12 hr) global VIIRS RDR data.</strong>
 </p>
@@ -73,13 +73,13 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Satellite JPSS NOAA/NOAA_20_JPSS_1_VIIRS_TRUE_COLOUR_IMAGE_STANDARD_VERSION.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_TRUE_COLOUR_IMAGE_STANDARD_VERSION.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Abstract</strong>
+<p><strong>bstract</strong>
 </p>
 <p><strong>This data contains the NOAA-20/JPSS-1 VIIRS True Colour RGB Image (375 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the NRT data received locally. This data is recommended for near real-time monitoring of fire hotspots.</strong>
 </p>
@@ -100,7 +100,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Satellite JPSS NOAA/NOAA_20_JPSS_1_VIIRS_SMOKE_HAZE_RGB_IMAGE_NEAR_REAL_TIME_VERSION.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_SMOKE_HAZE_RGB_IMAGE_STANDARD_VERSION.png">
 </div>
 </td>
 </tr>
@@ -127,7 +127,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Satellite JPSS NOAA/NOAA_20_JPSS_1_VIIRS_DYNAMIC_DAY_NIGHT_BAND_STANDARD_VERSION.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_DYNAMIC_DAY_NIGHT_BAND_NEAR_REAL_TIME_VERSION.png">
 </div>
 </td>
 </tr>
@@ -153,7 +153,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Satellite JPSS NOAA/NOAA_20_JPSS_1_VIIRS_DYNAMIC_DAY_NIGHT_BAND_NEAR_REAL_TIME_VERSION.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_DYNAMIC_DAY_NIGHT_BAND_NEAR_REAL_TIME_VERSION.png">
 </div>
 </td>
 </tr>
@@ -179,7 +179,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Satellite JPSS NOAA/NOAA_20_JPSS_1_ACTIVE_FIRES_750M_STANDARD_VERSION.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_ACTIVE_FIRES_750M_STANDARD_VERSION.png">
 </div>
 </td>
 </tr>
@@ -207,7 +207,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Satellite JPSS NOAA/NOAA_20_JPSS_1_ACTIVE_FIRES_750M_NEAR_REAL_TIME_VERSION.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_ACTIVE_FIRES_750M_STANDARD_VERSION.png">
 </div>
 </td>
 </tr>
