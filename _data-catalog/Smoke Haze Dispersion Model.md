@@ -4,7 +4,25 @@ permalink: /smoke-haze-dispersion-model/
 variant: tiptap
 description: ""
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <h4><strong>ASMC SMOKE HAZE DISPERSION MODEL</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/ASMC_SMOKE_HAZE_DISPERSION_MODEL.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Abstract</strong>
 </p>
 <p><strong>The animation shows the estimated surface PM10 concentration over a 24-hour period from 00 to 24 UTC at 3-hourly intervals. A 24-hour look-ahead is provided for haze affecting the ASEAN region, based on numerical modelling. The predictive simulation is generally updated by 00 UTC each day; however the upload time will vary slightly depending on the number of fires detected and available input information.</strong>
