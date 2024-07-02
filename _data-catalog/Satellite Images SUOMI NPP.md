@@ -1673,7 +1673,7 @@ Administration</p>
 <p>ID</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>urn:x-wmo:md:sgp:asmc:jp1_afedr_750m_late</p>
+<p>urn:x-wmo:md:sgp:asmc:npp_viirs_smokehaze_375m_jpg_late</p>
 </td>
 </tr>
 <tr>
@@ -1731,7 +1731,8 @@ Administration</p>
 <p>Themes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>noaa-20, jpss-1, fire hotspot, active fires, standard version, jpss_hotspot_location</p>
+<p>suomi-npp, npp, fire hotspot, active fires, standard version, smoke haze
+rgb, npp_satellite</p>
 </td>
 </tr>
 <tr>
@@ -1756,10 +1757,9 @@ Administration</p>
 <p>Description</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This data contains the Active Fires Environmental Data Record for JPSS-1/NOAA-20
-VIIRS. The data is produced using CSPP Active Fires software. This version
-is produced based on the delayed (8-12 hr) global VIIRS RDR data. The hotspot
-data is suitable for general usage.</p>
+<p>This data contains the Suomi-NPP VIIRS Smoke Haze RGB Image (375 m resolution).
+The image is overlaid with fire hotspot data. This version is produced
+based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 </td>
 </tr>
 <tr>
@@ -1775,7 +1775,7 @@ data is suitable for general usage.</p>
 <p>Title</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NOAA-20/JPSS-1 Active Fires 750m Standard Version</p>
+<p>Suomi-NPP VIIRS Smoke Haze RGB Image Standard Version</p>
 </td>
 </tr>
 <tr>
@@ -1842,7 +1842,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_AFEDR_750M_LATE</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/NPP_VIIRS_SMOKEHAZE_375M_JPG_LATE</a>
 </p>
 </td>
 </tr>
