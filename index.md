@@ -25,15 +25,15 @@ sections:
         - title: Satellite Images
           description: JPSS-1/NOAA-20
           linktext: View
-          url: ""
+          url: /satellite-images-jpss-1-noaa-20/
         - title: Satellite Images
           description: SUOMI-NPP
-          linktext: View
+          linktext: /satellite-images-suomi-npp/
           url: ""
         - title: Hotspot Reports
           description: Suomi-NPP
           linktext: View
-          url: ""
+          url: /hotspot-reports-suomi-npp/
   - textcards:
       title: Haze
       id: textcards
