@@ -5,10 +5,26 @@ variant: tiptap
 description: ""
 ---
 <h4></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 VIIRS TRUE COLOUR IMAGE STANDARD VERSION</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Satellite JPSS NOAA/NOAA_20_JPSS_1_VIIRS_TRUE_COLOUR_IMAGE_STANDARD_VERSION.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Satellite JPSS NOAA/NOAA_20_JPSS_1_VIIRS_TRUE_COLOUR_IMAGE_STANDARD_VERSION.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
 <p><strong>Abstract</strong>
 </p>
 <p><strong>This data contains the NOAA-20/JPSS-1 VIIRS True Colour RGB Image (375 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the delayed (8-12 hr) global VIIRS RDR data.</strong>
