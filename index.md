@@ -50,4 +50,13 @@ sections:
           description: ""
           linktext: View
           url: /smoke-haze-dispersion-model/
+  - infopic:
+      title: Satellite Images
+      subtitle: Add an image and text
+      id: infopic
+      description: JPSS-1/NOAA-20
+      button: View More
+      url: /satellite-images-jpss-1-noaa-20/
+      image: /images/download.png
+      alt: Image alt text
 ---
