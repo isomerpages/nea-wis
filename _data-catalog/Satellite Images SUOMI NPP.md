@@ -11,10 +11,10 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS TRUE COLOUR IMAGE STANDARD VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_TRUE_COLOUR.png">
@@ -264,10 +264,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS SMOKE HAZE RGB IMAGE STANDARD VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_SMOKE_HAZE_RGB.png">
@@ -525,10 +525,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS TRUE COLOUR IMAGE NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_TRUE_COLOUR.png">
@@ -787,10 +787,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS SMOKE HAZE RGB IMAGE NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_SMOKE_HAZE_RGB.png">
@@ -1041,10 +1041,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS DYNAMIC DAY NIGHT BAND STANDARD VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_DYNAMIC_DAY_NIGHT.png">
@@ -1294,10 +1294,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS DYNAMIC DAY NIGHT BAND NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_DYNAMIC_DAY_NIGHT.png">
@@ -1548,10 +1548,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP ACTIVE FIRES 750M NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_ACTIVE_FIRES.png">
@@ -1801,10 +1801,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP ACTIVE FIRES 750M STANDARD VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_ACTIVE_FIRES.png">
