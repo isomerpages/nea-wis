@@ -11,10 +11,10 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS TRUE COLOUR IMAGE STANDARD VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_TRUE_COLOUR.png">
@@ -264,10 +264,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS SMOKE HAZE RGB IMAGE STANDARD VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_SMOKE_HAZE_RGB.png">
@@ -303,7 +303,7 @@ Administration</p>
 <p>ID</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>urn:x-wmo:md:sgp:asmc:npp_viirs_dynamicdnb_750m_jpg_nrt</p>
+<p>urn:x-wmo:md:sgp:asmc:npp_viirs_smokehaze_375m_jpg_late</p>
 </td>
 </tr>
 <tr>
@@ -361,8 +361,8 @@ Administration</p>
 <p>Themes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>suomi-npp, npp, fire hotspot, active fires, nrt version, dynamic day night
-band, viirs, npp_satellite</p>
+<p>suomi-npp, npp, fire hotspot, active fires, standard version, smoke haze
+rgb, npp_satellite</p>
 </td>
 </tr>
 <tr>
@@ -387,10 +387,9 @@ band, viirs, npp_satellite</p>
 <p>Description</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This data contains the SUOMI-NPP VIIRS Dynamic Day Night Band Image (750
-m resolution). The image is overlaid with fire hotspot data. This version
-is produced based on the NRT data received locally. This data is recommended
-for near real-time monitoring of fire hotspots.</p>
+<p>This data contains the Suomi-NPP VIIRS Smoke Haze RGB Image (375 m resolution).
+The image is overlaid with fire hotspot data.\n\nThis version is produced
+based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 </td>
 </tr>
 <tr>
@@ -406,7 +405,7 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Title</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Suomi-NPP VIIRS Dynamic Day Night Band Near Real-Time Version</p>
+<p>Suomi-NPP VIIRS Smoke Haze RGB Image Standard Version</p>
 </td>
 </tr>
 <tr>
@@ -414,7 +413,7 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Updated</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/11/2023</p>
+<p>########</p>
 </td>
 </tr>
 <tr>
@@ -439,7 +438,7 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>6.57E+09</p>
 </td>
 </tr>
 <tr>
@@ -447,8 +446,8 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Room #041-033, 4th Floor, South Finger Terminal 2, Singapore Changi Airport,
-Singapore 819643</p>
+<p>Room #041-033, 4th Floor, South Finger Terminal 2&nbsp; -&nbsp; Singapore
+Changi Airport, Singapore 819643</p>
 </td>
 </tr>
 <tr>
@@ -473,7 +472,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/NPP_VIIRS_DYNAMICDNB_750M_JPG_NRT</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/NPP_VIIRS_SMOKEHAZE_375M_JPG_LATE</a>
 </p>
 </td>
 </tr>
@@ -503,6 +502,14 @@ Administration</p>
 <p>mqtts://everyone:<a rel="noopener noreferrer nofollow" target="_blank">everyone@gb.wis.cma.cn:8883</a>/</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -518,10 +525,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS TRUE COLOUR IMAGE NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_TRUE_COLOUR.png">
@@ -557,7 +564,7 @@ Administration</p>
 <p>ID</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>urn:x-wmo:md:sgp:asmc:jp1_afedr_750m_late</p>
+<p>urn:x-wmo:md:sgp:asmc:npp_viirs_truecolour_375m_jpg_nrt</p>
 </td>
 </tr>
 <tr>
@@ -615,7 +622,8 @@ Administration</p>
 <p>Themes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>noaa-20, jpss-1, fire hotspot, active fires, standard version, jpss_hotspot_location</p>
+<p>suomi-npp, npp_satellite, fire hotspot, active fires, nrt version, true
+colour rgb</p>
 </td>
 </tr>
 <tr>
@@ -640,10 +648,10 @@ Administration</p>
 <p>Description</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This data contains the Active Fires Environmental Data Record for JPSS-1/NOAA-20
-VIIRS. The data is produced using CSPP Active Fires software. This version
-is produced based on the delayed (8-12 hr) global VIIRS RDR data. The hotspot
-data is suitable for general usage.</p>
+<p>This data contains the Suomi-NPP VIIRS True Colour RGB Image (375 m resolution).
+The image is overlaid with fire hotspot data.\n\nThis version is produced
+based on the NRT data received locally. This data is recommended for near
+real-time monitoring of fire hotspots.</p>
 </td>
 </tr>
 <tr>
@@ -659,7 +667,7 @@ data is suitable for general usage.</p>
 <p>Title</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NOAA-20/JPSS-1 Active Fires 750m Standard Version</p>
+<p>Suomi-NPP VIIRS True Colour Image Near Real-Time Version</p>
 </td>
 </tr>
 <tr>
@@ -667,7 +675,7 @@ data is suitable for general usage.</p>
 <p>Updated</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/11/2023</p>
+<p>########</p>
 </td>
 </tr>
 <tr>
@@ -692,7 +700,7 @@ data is suitable for general usage.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>6.57E+09</p>
 </td>
 </tr>
 <tr>
@@ -700,8 +708,8 @@ data is suitable for general usage.</p>
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Room #041-033, 4th Floor, South Finger Terminal 2, Singapore Changi Airport,
-Singapore 819643</p>
+<p>Room #041-033, 4th Floor, South Finger Terminal 2&nbsp; -&nbsp; Singapore
+Changi Airport, Singapore 819643</p>
 </td>
 </tr>
 <tr>
@@ -726,7 +734,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_AFEDR_750M_LATE</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/NPP_VIIRS_TRUECOLOUR_375M_JPG_NRT</a>
 </p>
 </td>
 </tr>
@@ -756,6 +764,14 @@ Administration</p>
 <p>mqtts://everyone:<a rel="noopener noreferrer nofollow" target="_blank">everyone@gb.wis.cma.cn:8883</a>/</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -771,10 +787,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS SMOKE HAZE RGB IMAGE NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_SMOKE_HAZE_RGB.png">
@@ -1025,10 +1041,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS DYNAMIC DAY NIGHT BAND STANDARD VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_DYNAMIC_DAY_NIGHT.png">
@@ -1278,10 +1294,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS DYNAMIC DAY NIGHT BAND NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_DYNAMIC_DAY_NIGHT.png">
@@ -1532,10 +1548,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP ACTIVE FIRES 750M NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_ACTIVE_FIRES.png">
@@ -1785,10 +1801,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP ACTIVE FIRES 750M STANDARD VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_ACTIVE_FIRES.png">
@@ -1824,7 +1840,7 @@ Administration</p>
 <p>ID</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>urn:x-wmo:md:sgp:asmc:npp_viirs_smokehaze_375m_jpg_late</p>
+<p>urn:x-wmo:md:sgp:asmc:npp_afedr_750m_late</p>
 </td>
 </tr>
 <tr>
@@ -1882,8 +1898,7 @@ Administration</p>
 <p>Themes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>suomi-npp, npp, fire hotspot, active fires, standard version, smoke haze
-rgb, npp_satellite</p>
+<p>suomi-npp, npp, fire hotspot, active fires, standard version, npp_hotspot_location</p>
 </td>
 </tr>
 <tr>
@@ -1908,9 +1923,10 @@ rgb, npp_satellite</p>
 <p>Description</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This data contains the Suomi-NPP VIIRS Smoke Haze RGB Image (375 m resolution).
-The image is overlaid with fire hotspot data. This version is produced
-based on the delayed (8-12 hr) global VIIRS RDR data.</p>
+<p>This data contains the Active Fires Environmental Data Record for Suomi-NPP
+VIIRS. The data is produced using CSPP Active Fires software.\n\nThis version
+is produced based on the delayed (8-12 hr) global VIIRS RDR data. The hotspot
+data is suitable for general usage.</p>
 </td>
 </tr>
 <tr>
@@ -1926,7 +1942,7 @@ based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Title</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Suomi-NPP VIIRS Smoke Haze RGB Image Standard Version</p>
+<p>Suomi-NPP Active Fires 750m Standard Version</p>
 </td>
 </tr>
 <tr>
@@ -1967,8 +1983,8 @@ based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Room #041-033, 4th Floor, South Finger Terminal 2, Singapore Changi Airport,
-Singapore 819643</p>
+<p>Room #041-033, 4th Floor, South Finger Terminal 2&nbsp; -&nbsp; Singapore
+Changi Airport, Singapore 819643</p>
 </td>
 </tr>
 <tr>
@@ -1993,7 +2009,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/NPP_VIIRS_SMOKEHAZE_375M_JPG_LATE</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/NPP_AFEDR_750M_LATE</a>
 </p>
 </td>
 </tr>
