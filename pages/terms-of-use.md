@@ -3,7 +3,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
-
 Thank you for visiting the official website of the ASEAN Specialised Meteorological Centre (“this Site”). By accessing and using any part of this Site, you shall be deemed to have unconditionally accepted to be legally bound by the Terms of Use. If you do not agree to any of these Terms of Use, please do not use this Site and/or the online services.
 
 1.  **GENERAL**
@@ -20,7 +19,7 @@ These Terms of Use may be changed from time to time at the absolute discretion o
 
 3.  **PRIVACY STATEMENT**
 
-Please click here to review this Site’s Privacy Statement.
+Please click [undefined](/privacy/)here to review this Site’s Privacy Statement.
 
 4.  **RESTRICTIONS ON USE OF CONTENTS**
 
