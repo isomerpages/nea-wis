@@ -65,8 +65,8 @@ sections:
   - infopic:
       title: Hotspot Reports
       id: infopic
-      description: Infopic description
-      button: JPSS-1/NOAA-20
+      description: JPSS-1/NOAA-20
+      button: View more
       url: /hotspot-reports-jpss-1-noaa-20/
       image: /images/Home page/Hotspot_report_JPSSN20.png
       alt: JPSS-1/NOAA-20
