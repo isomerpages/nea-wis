@@ -12,10 +12,10 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 VIIRS TRUE COLOUR IMAGE STANDARD VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_TRUE_COLOUR_IMAGE_STANDARD_VERSION.png">
@@ -265,10 +265,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 VIIRS SMOKE HAZE RGB IMAGE STANDARD VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_SMOKE_HAZE_RGB_IMAGE_STANDARD_VERSION.png">
@@ -512,10 +512,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 VIIRS TRUE COLOUR IMAGE NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_TRUE_COLOUR_IMAGE_STANDARD_VERSION.png">
@@ -765,10 +765,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 VIIRS SMOKE HAZE RGB IMAGE NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_SMOKE_HAZE_RGB_IMAGE_STANDARD_VERSION.png">
@@ -1013,10 +1013,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 VIIRS DYNAMIC DAY NIGHT BAND STANDARD VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_DYNAMIC_DAY_NIGHT_BAND_NEAR_REAL_TIME_VERSION.png">
@@ -1260,10 +1260,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 VIIRS DYNAMIC DAY NIGHT BAND NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_DYNAMIC_DAY_NIGHT_BAND_NEAR_REAL_TIME_VERSION.png">
@@ -1513,10 +1513,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 ACTIVE FIRES 750M NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_ACTIVE_FIRES_750M_STANDARD_VERSION.png">
@@ -1766,10 +1766,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 ACTIVE FIRES 750M STANDARD VERSION</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
+<td style="vertical-align: middle;" rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_ACTIVE_FIRES_750M_STANDARD_VERSION.png">
