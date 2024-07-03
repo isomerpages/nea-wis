@@ -12,10 +12,10 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 VIIRS TRUE COLOUR IMAGE STANDARD VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_TRUE_COLOUR_IMAGE_STANDARD_VERSION.png">
@@ -265,10 +265,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 VIIRS SMOKE HAZE RGB IMAGE STANDARD VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_SMOKE_HAZE_RGB_IMAGE_STANDARD_VERSION.png">
@@ -512,10 +512,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 VIIRS TRUE COLOUR IMAGE NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_TRUE_COLOUR_IMAGE_STANDARD_VERSION.png">
@@ -551,7 +551,7 @@ Administration</p>
 <p>ID</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>urn:x-wmo:md:sgp:asmc:jp1_viirs_smokehaze_375m_jpg_late</p>
+<p>urn:x-wmo:md:sgp:asmc:jp1_viirs_truecolour_375m_jpg_nrt</p>
 </td>
 </tr>
 <tr>
@@ -559,7 +559,8 @@ Administration</p>
 <p>Conforms To</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -608,8 +609,8 @@ Administration</p>
 <p>Themes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>noaa-20, jpss-1, fire hotspot, active fires, standard version, smoke haze
-rgb, jpss_satellite</p>
+<p>noaa20 jpss-1, jpss_satellite, fire hotspot, active fires, nrt version,
+true colour rgb</p>
 </td>
 </tr>
 <tr>
@@ -617,7 +618,8 @@ rgb, jpss_satellite</p>
 <p>Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -633,9 +635,10 @@ rgb, jpss_satellite</p>
 <p>Description</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This data contains the NOAA-20/JPSS-1 VIIRS Smoke Haze RGB Image (375
-m resolution). The image is overlaid with fire hotspot data. This version
-is produced based on the delayed (8-12 hr) global VIIRS RDR data.</p>
+<p>This data contains the NOAA-20/JPSS-1 VIIRS True Colour RGB Image (375
+m resolution). The image is overlaid with fire hotspot data.\n\nThis version
+is produced based on the NRT data received locally. This data is recommended
+for near real-time monitoring of fire hotspots.</p>
 </td>
 </tr>
 <tr>
@@ -651,7 +654,7 @@ is produced based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Title</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NOAA-20/JPSS-1 VIIRS Smoke Haze RGB Image Standard Version</p>
+<p>NOAA-20/JPSS-1 VIIRS True Colour Image Near Real-Time Version</p>
 </td>
 </tr>
 <tr>
@@ -659,7 +662,7 @@ is produced based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Updated</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/11/2023</p>
+<p>########</p>
 </td>
 </tr>
 <tr>
@@ -675,7 +678,8 @@ is produced based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASMC_Enquiries@nea.gov.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -683,7 +687,7 @@ is produced based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>6.57E+09</p>
 </td>
 </tr>
 <tr>
@@ -691,8 +695,8 @@ is produced based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Room #041-033, 4th Floor, South Finger Terminal 2, Singapore Changi Airport,
-Singapore 819643</p>
+<p>Room #041-033, 4th Floor, South Finger Terminal 2&nbsp; -&nbsp; Singapore
+Changi Airport, Singapore 819643</p>
 </td>
 </tr>
 <tr>
@@ -708,7 +712,8 @@ Singapore 819643</p>
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://asmc.asean.org/home/</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://asmc.asean.org/home/</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -716,7 +721,8 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_SMOKEHAZE_375M_JPG_LATE</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_TRUECOLOUR_375M_JPG_NRT</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -724,7 +730,8 @@ Singapore 819643</p>
 <p>IP whitelisting request form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -732,7 +739,7 @@ Singapore 819643</p>
 <p>Data notifications from WMO WIS2 Global Broker - Meteo France</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mqtts://everyone:everyone@globalbroker.meteo.fr:8883/</p>
+<p>mqtts://everyone:<a rel="noopener noreferrer nofollow" target="_blank">everyone@globalbroker.meteo.fr:8883</a>/</p>
 </td>
 </tr>
 <tr>
@@ -741,12 +748,11 @@ Singapore 819643</p>
 Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mqtts://everyone:everyone@gb.wis.cma.cn:8883/</p>
+<p>mqtts://everyone:<a rel="noopener noreferrer nofollow" target="_blank">everyone@gb.wis.cma.cn:8883</a>/</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 </div>
 </details>
 </div>
@@ -759,10 +765,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 VIIRS SMOKE HAZE RGB IMAGE NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_SMOKE_HAZE_RGB_IMAGE_STANDARD_VERSION.png">
@@ -1007,10 +1013,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 VIIRS DYNAMIC DAY NIGHT BAND STANDARD VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_DYNAMIC_DAY_NIGHT_BAND_NEAR_REAL_TIME_VERSION.png">
@@ -1254,10 +1260,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 VIIRS DYNAMIC DAY NIGHT BAND NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_VIIRS_DYNAMIC_DAY_NIGHT_BAND_NEAR_REAL_TIME_VERSION.png">
@@ -1507,10 +1513,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 ACTIVE FIRES 750M NEAR REAL-TIME VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_ACTIVE_FIRES_750M_STANDARD_VERSION.png">
@@ -1760,10 +1766,10 @@ Administration</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 ACTIVE FIRES 750M STANDARD VERSION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_ACTIVE_FIRES_750M_STANDARD_VERSION.png">
