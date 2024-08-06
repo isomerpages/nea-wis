@@ -31,8 +31,6 @@ sections:
           description: JPSS-1/NOAA-20
           linktext: Learn more
           url: /hotspot-reports-jpss-1-noaa-20/
-      subtitle: ""
-      description: ""
   - textcards:
       title: ""
       id: textcards
@@ -49,6 +47,4 @@ sections:
           description: ""
           linktext: View
           url: /smoke-haze-dispersion-model/
-      subtitle: ""
-      description: ""
 ---
