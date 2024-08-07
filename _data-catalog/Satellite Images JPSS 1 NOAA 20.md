@@ -687,7 +687,7 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.57E+09</p>
+<p>6565422837</p>
 </td>
 </tr>
 <tr>
@@ -1527,7 +1527,7 @@ Administration</p>
 </table>
 <p><strong>Abstract</strong>
 </p>
-<p><strong>This data contains the NOAA-20/JPSS-1 VIIRS Dynamic Day Night Band Image (750 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the NRT data received locally. This data is recommended for near real-time monitoring of fire hotspots.</strong>
+<p><strong>This data contains the Active Fires Environmental Data Record for NOAA-20/JPSS-1 VIIRS. The data is produced using CSPP Active Fires software. This version is produced based on the NRT data received locally. This data is recommended for near real-time monitoring of fire hotspots.</strong>
 </p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -1635,10 +1635,7 @@ Administration</p>
 <p>Description</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This data contains the Active Fires Environmental Data Record for JPSS-1/NOAA-20
-VIIRS. The data is produced using CSPP Active Fires software. This version
-is produced based on the NRT data received locally. This data is recommended
-for near real-time monitoring of fire hotspots.</p>
+<p>This data contains the Active Fires Environmental Data Record for NOAA-20/JPSS-1 VIIRS. The data is produced using CSPP Active Fires software. This version is produced based on the NRT data received locally. This data is recommended for near real-time monitoring of fire hotspots. </p>
 </td>
 </tr>
 <tr>
