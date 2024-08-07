@@ -312,7 +312,7 @@ Administration</p>
 <p>Conforms To</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</a></p>
 </td>
 </tr>
 <tr>
