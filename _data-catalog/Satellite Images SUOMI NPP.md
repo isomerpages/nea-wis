@@ -405,7 +405,7 @@ based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Updated</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>########</p>
+<p>6/11/2023</p>
 </td>
 </tr>
 <tr>
@@ -663,7 +663,7 @@ real-time monitoring of fire hotspots.</p>
 <p>Updated</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>########</p>
+<p>6/11/2023</p>
 </td>
 </tr>
 <tr>
