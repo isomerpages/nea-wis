@@ -11,10 +11,10 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>DAILY HAZE MAP IN THE ASEAN REGION</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/DAILY_HAZE_MAP_IN_THE_ASEAN_REGION.png">
@@ -28,17 +28,13 @@ description: ""
 <p><strong>The hotspots depicted in the map are derived from the NOAA satellite and they represent locations with possible active fires. Hotspots may go undetected due to cloudy conditions or incomplete satellite pass. The 2500 ft winds (depicted by arrows) are model analysis winds.</strong>
 </p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Email Subscription Request</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/asmc-wis2-email-subscription-request-form</a>
+<p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Email Subscription Request</a>
 </p>
-</div>
-</details>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Metadata</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
