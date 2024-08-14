@@ -11,10 +11,10 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>ASMC SMOKE HAZE DISPERSION MODEL</strong></h4>
 </td>
-<td style="vertical-align: middle;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/ASMC_SMOKE_HAZE_DISPERSION_MODEL.png">
@@ -28,17 +28,13 @@ description: ""
 <p><strong>The animation shows the estimated surface PM10 concentration over a 24-hour period from 00 to 24 UTC at 3-hourly intervals. A 24-hour look-ahead is provided for haze affecting the ASEAN region, based on numerical modelling. The predictive simulation is generally updated by 00 UTC each day; however the upload time will vary slightly depending on the number of fires detected and available input information.</strong>
 </p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Email Subscription Request</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/asmc-wis2-email-subscription-request-form</a>
+<p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Email Subscription Request</a>
 </p>
-</div>
-</details>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Metadata</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -255,6 +251,5 @@ Singapore 819643</p>
 </div>
 </details>
 </div>
-<p></p>
 <hr>
 <p></p>
