@@ -363,7 +363,8 @@ rgb, jpss_satellite</p>
 <p>Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</p>
+<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -421,7 +422,8 @@ is produced based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASMC_Enquiries@nea.gov.sg</p>
+<p><a href="mailto:ASMC_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -454,7 +456,8 @@ Singapore 819643</p>
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://asmc.asean.org/home/</p>
+<p><a href="http://asmc.asean.org/home/" rel="noopener noreferrer nofollow" target="_blank">http://asmc.asean.org/home/</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -462,7 +465,8 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_SMOKEHAZE_375M_JPG_LATE</p>
+<p><a href="https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_SMOKEHAZE_375M_JPG_LATE" rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_SMOKEHAZE_375M_JPG_LATE</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -470,7 +474,8 @@ Singapore 819643</p>
 <p>IP whitelisting request form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form</p>
+<p><a href="https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -478,7 +483,7 @@ Singapore 819643</p>
 <p>Data notifications from WMO WIS2 Global Broker - Meteo France</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mqtts://everyone:everyone@globalbroker.meteo.fr:8883/</p>
+<p>mqtts://everyone:<a href="mailto:everyone@globalbroker.meteo.fr:8883" rel="noopener noreferrer nofollow" target="_blank">everyone@globalbroker.meteo.fr:8883</a>/</p>
 </td>
 </tr>
 <tr>
@@ -487,7 +492,7 @@ Singapore 819643</p>
 Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mqtts://everyone:everyone@gb.wis.cma.cn:8883/</p>
+<p>mqtts://everyone:<a href="mailto:everyone@gb.wis.cma.cn:8883" rel="noopener noreferrer nofollow" target="_blank">everyone@gb.wis.cma.cn:8883</a>/</p>
 </td>
 </tr>
 </tbody>
@@ -650,7 +655,7 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Updated</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>########</p>
+<p>6/11/2023</p>
 </td>
 </tr>
 <tr>
@@ -796,7 +801,8 @@ Administration</p>
 <p>Conforms To</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</p>
+<p><a href="http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core" rel="noopener noreferrer nofollow" target="_blank">http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -854,7 +860,8 @@ jpss_satellite</p>
 <p>Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</p>
+<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -913,7 +920,8 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASMC_Enquiries@nea.gov.sg</p>
+<p><a href="mailto:ASMC_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -946,7 +954,8 @@ Singapore 819643</p>
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://asmc.asean.org/home/</p>
+<p><a href="http://asmc.asean.org/home/" rel="noopener noreferrer nofollow" target="_blank">http://asmc.asean.org/home/</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -954,7 +963,8 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_SMOKEHAZE_375M_JPG_NRT</p>
+<p><a href="https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_SMOKEHAZE_375M_JPG_NRT" rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_SMOKEHAZE_375M_JPG_NRT</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -962,7 +972,8 @@ Singapore 819643</p>
 <p>IP whitelisting request form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form</p>
+<p><a href="https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -970,7 +981,7 @@ Singapore 819643</p>
 <p>Data notifications from WMO WIS2 Global Broker - Meteo France</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mqtts://everyone:everyone@globalbroker.meteo.fr:8883/</p>
+<p>mqtts://everyone:<a href="mailto:everyone@globalbroker.meteo.fr:8883" rel="noopener noreferrer nofollow" target="_blank">everyone@globalbroker.meteo.fr:8883</a>/</p>
 </td>
 </tr>
 <tr>
@@ -979,7 +990,7 @@ Singapore 819643</p>
 Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mqtts://everyone:everyone@gb.wis.cma.cn:8883/</p>
+<p>mqtts://everyone:<a href="mailto:everyone@gb.wis.cma.cn:8883" rel="noopener noreferrer nofollow" target="_blank">everyone@gb.wis.cma.cn:8883</a>/</p>
 </td>
 </tr>
 </tbody>
@@ -1039,7 +1050,8 @@ Administration</p>
 <p>Conforms To</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</p>
+<p><a href="http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core" rel="noopener noreferrer nofollow" target="_blank">http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -1155,7 +1167,8 @@ version is produced based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASMC_Enquiries@nea.gov.sg</p>
+<p><a href="mailto:ASMC_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -1188,7 +1201,8 @@ Singapore 819643</p>
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>http://asmc.asean.org/home/</p>
+<p><a href="http://asmc.asean.org/home/" rel="noopener noreferrer nofollow" target="_blank">http://asmc.asean.org/home/</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -1196,7 +1210,8 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_DYNAMICDNB_750M_JPG_LATE</p>
+<p><a href="https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_DYNAMICDNB_750M_JPG_LATE" rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_DYNAMICDNB_750M_JPG_LATE</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1204,7 +1219,8 @@ Singapore 819643</p>
 <p>IP whitelisting request form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form</p>
+<p><a href="https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form</a>
+</p>
 </td>
 </tr>
 <tr>
