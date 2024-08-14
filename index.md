@@ -7,8 +7,9 @@ permalink: /
 notification: This site is under construction
 sections:
   - hero:
-      title: Welcome to the MSS-ASMC WIS 2.0 Portal
-      background: /images/hero-banner.png
+      title: ""
+      background: /images/Hero_Banner.png
+      subtitle: ""
   - infobar:
       title: ASMC Products
       id: infobar
