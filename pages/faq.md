@@ -35,8 +35,9 @@ and subscribe to topics to receive messages.</p>
 a programming library for your preferred language (e.g., Paho for Python
 or Java). Some readily available MQTT clients are MQTT explorer and MQTT.fx.</p>
 <p></p>
-<p>You will be required to enter the global broker's address and port and
-provide credentials if required.</p>
+<p>You will be required to enter the global broker's address and port, provide
+credentials if required, and subscribe to the topics of interest. Please
+read below on how to search and find relevant datasets of interest.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -116,58 +117,6 @@ should access core data from the Global Caches. Consequently, they need
 to subscribe to the <code>cache</code> topic hierarchy to receive the notifications
 from Global Caches, each of which provides a link (that is, URL) to download
 from the respective Global Cache’s data server.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>How to use a notification message to decide whether to download data?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>On receipt of a notification message, a data consumer needs to decide
-whether to download the newly available data. The content of the notification
-message provides the information needed to make this decision. For details
-of the specification, see the <em>Manual on WIS</em>, Volume II - Appendix
-E: WIS2 Notification Message.</p>
-<p>In many cases, data consumers will use a software application to determine
-whether or not to download the data. This section provides insight about
-what happens.</p>
-<p>When subscribing to multiple Global Brokers the data consumer will receive
-multiple copies of a notification message. Each notification message has
-a unique identifier, defined using the <code>id</code> property. Duplicate
-messages should be discarded.</p>
-<p>The core data will be available from both a WIS2 Node and Global Caches,
-each of which publishes a different notification message advertising an
-alternative location from where the data can be downloaded. Because these
-are different messages, they will have different identifiers. However,
-each of these messages refers to the same data object, which is uniquely
-identified in the notification message using the data_id property. Notification
-messages from different sources can easily be compared to determine if
-they refer to the same data. By subscribing to the cache root topic, data
-consumers will only receive notifications about data available from the
-Global Caches. The origin root topic should be used when subscribing to
-notifications about recommended data. Data consumers should not subscribe
-to the origin root topic for notifications about core data because notification
-messages provided on these topics will refer to data published directly
-on the WIS2 Nodes (referred to as, the "origin").</p>
-<p>Data consumers need to consider their strategy for managing these duplicate
-messages. From a data perspective, it does not matter which Global Cache
-instance is used – they will all provide an identical copy of the data
-object published by the originating WIS2 Node. The simplest strategy is
-to accept the first notification message and download it from the Global
-Cache instance that the message refers to by using a URL for the data object
-at that Global Cache instance. Alternatively, a data consumer may have
-a preferred Global Cache instance, for example, that is located in their
-region. Whichever Global Cache instance is chosen, data consumers will
-need to implement logic to discard duplicate notification messages based
-on <code>id</code> and duplicate data objects based on <code>data_id</code>.</p>
-<p>A notification message also provides a small amount of metadata about
-the data object it references such as location and time. Data consumers
-can use this metadata to decide if the data object referenced in the message
-should be downloaded. This is known as client-side filtering.</p>
-<p>The notification message should also include the metadata identifier for
-the dataset to which the data object belongs. A data consumer can use the
-metadata identifier to search the Global Discovery Catalogue and discover
-more about the data - in particular, whether there are any conditions on
-the use of this data.</p>
 </div>
 </details>
 </div>
