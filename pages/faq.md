@@ -63,6 +63,8 @@ or Java). Some readily available MQTT clients are MQTT explorer and MQTT.fx.</p>
 <p>You will be required to enter the global broker's address and port, provide
 credentials if required, and subscribe to the topics of interest. Please
 read below on how to search and find relevant datasets of interest.</p>
+<p></p>
+<p>The HTTP protocol (RFC 7231) is to be used for all WIS2 download workflows.</p>
 </div>
 </details>
 <details class="isomer-details">
