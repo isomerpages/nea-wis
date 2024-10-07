@@ -23,6 +23,23 @@ open standards, simpler data exchange and cloud-ready solutions.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>What is MQTT and how to download data?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>MQTT (Message Queuing Telemetry Transport) is a lightweight messaging
+protocol designed for efficient communication in IoT and M2M applications.
+MQTT uses a publish/subscribe model where clients publish messages to topics
+and subscribe to topics to receive messages.</p>
+<p></p>
+<p>In order to download the data, you will require an MQTT client or use
+a programming library for your preferred language (e.g., Paho for Python
+or Java). Some readily available MQTT clients are MQTT explorer and MQTT.fx.</p>
+<p></p>
+<p>You will be required to enter the global broker's address and port and
+provide credentials if required.</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>How to search the Global Discovery Catalogue to find datasets?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -151,22 +168,6 @@ the dataset to which the data object belongs. A data consumer can use the
 metadata identifier to search the Global Discovery Catalogue and discover
 more about the data - in particular, whether there are any conditions on
 the use of this data.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>What is MQTT and how to download data?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>MQTT (Message Queuing Telemetry Transport) is a lightweight messaging
-protocol designed for efficient communication in IoT and M2M applications.
-MQTT uses a publish/subscribe model where clients publish messages to topics
-and subscribe to topics to receive messages.</p>
-<p></p>
-<p>In order to download the data, you will require an MQTT client or use
-a programming library for your preferred language (e.g., Paho for Python
-or Java). Some readily available MQTT clients are MQTT explorer and MQTT.fx.</p>
-<p></p>
-<p></p>
 </div>
 </details>
 </div>
