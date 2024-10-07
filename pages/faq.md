@@ -18,12 +18,36 @@ demand for high data volume, variety, velocity and veracity.</p>
 <p>WIS2 technical framework is based around three foundational pillars: leveraging
 open standards, simpler data exchange and cloud-ready solutions.</p>
 <p></p>
-<p>For further information please visit the <a href="https://github.com/wmo-im" rel="noopener noreferrer nofollow" target="_blank">github.com/wmo-im</a>
-</p>
+<p>Three types of Global Services are used to enable the dissemination of
+data in the WIS2 network:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Global Broker:</strong> Globally accessible MQTT Broker that re-publishes
+data-notifications of all WIS 2.0 Nodes.&nbsp;The users of WIS 2.0 will
+be able to access data in real-time by subscribing to a Global Broker and
+receiving notifications when new data are available for download from a
+Global Cache or from the data provider.</p>
+</li>
+<li>
+<p><strong>Global Discovery Catalogue: </strong>Globally accessible catalogue,
+hosted on HTTP, storing WIS 2.0 Discovery Metadata records. The Global
+Discovery Catalogue allows users to discover the available datasets on
+WIS 2.0 and provide information on how and where to access the data.</p>
+</li>
+<li>
+<p><strong>Global Cache</strong>: Globally accessible HTTP-endpoint where
+data classified as core can be downloaded from</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WIS_diagram.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>What is MQTT and how to download data?</strong>
+<summary><strong>What is MQTT and how to download WIS 2.0 data?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>MQTT (Message Queuing Telemetry Transport) is a lightweight messaging
@@ -31,8 +55,8 @@ protocol designed for efficient communication in IoT and M2M applications.
 MQTT uses a publish/subscribe model where clients publish messages to topics
 and subscribe to topics to receive messages.</p>
 <p></p>
-<p>In order to download the data, you will require an MQTT client or use
-a programming library for your preferred language (e.g., Paho for Python
+<p>In order to download WIS 2.0 data, you will require an MQTT client or
+use a programming library for your preferred language (e.g., Paho for Python
 or Java). Some readily available MQTT clients are MQTT explorer and MQTT.fx.</p>
 <p></p>
 <p>You will be required to enter the global broker's address and port, provide
