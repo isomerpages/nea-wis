@@ -17,23 +17,23 @@ Exchange of Earth System Data (<em><a href="https://library.wmo.int/idurl/4/5785
 demand for high data volume, variety, velocity and veracity.</p>
 <p>WIS2 technical framework is based around three foundational pillars: leveraging
 open standards, simpler data exchange and cloud-ready solutions.</p>
+<p></p>
+<p>For further information please visit the <a href="https://github.com/wmo-im" rel="noopener noreferrer nofollow" target="_blank">github.com/wmo-im</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>How to search the Global Discovery Catalogue to find datasets?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The first step to using data published via WIS2 is to determine which
-dataset or datasets contains the data that is needed. To do this, a data
-consumer may browse discovery metadata provided by the Global Discovery
-Catalogue. Discovery metadata follows a standard scheme (see Manual on
-WIS, Volume II – Appendix F: WMO Core Metadata Profile). A data consumer
-may discover a dataset using keywords, geographic area of interest, temporal
-information, or free text. Matching search results from the Global Discovery
-Catalogue provide high-level information (title, description, keywords,
-spatiotemporal extents, data policy, licensing, contact information), from
-which a data consumer can assess and evaluate their interest in accessing/downloading
-data associated with the dataset record.</p>
+<p>The first step is to determine which dataset or datasets contains the
+data that you need.</p>
+<p></p>
+<p>To do this, you may browse and search for discovery metadata, using keywords,
+geographic area of interest, temporal information, or free text, provided
+by the Global Discovery Catalogue. Discovery metadata follows a standard
+scheme (see Manual on WIS, Volume II – Appendix F: WMO Core Metadata Profile).</p>
+<p></p>
 <p>A key component of dataset records in the Global Discovery Catalogue is
 that of "actionable" links. A dataset record provides one to many links
 that clearly identify the nature and purpose of the link (informational,
@@ -42,6 +42,7 @@ with the data accordingly. For example, a dataset record may include a
 link to subscribe to notifications (see below: How to subscribe to notifications
 about the availability of new data) about the data, or an API, or an offline
 archive retrieval service.</p>
+<p></p>
 <p>The Global Discovery Catalogue is accessible via an API and provides a
 low barrier mechanism. Internet search engines are able to index the discovery
 metadata in the Global Discovery Catalogue, thereby providing data consumers
@@ -153,85 +154,18 @@ the use of this data.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How to download data?</strong>
+<summary><strong>What is MQTT and how to download data?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Links to where data can be accessed are made available through dataset
-discovery metadata (via the Global Discovery Catalogue) and/or data notification
-messages (via Global Brokers). Links can be used to directly download the
-data (according to the network protocol and content description provided
-in the link) using a mechanism appropriate to the workflow of the data
-consumer. This could include web and/or desktop applications, custom tooling,
-or other approaches.</p>
-<p>A discovery metadata record or notification message may provide more than
-one download link. The preferred link will be identified as "canonical"
-(link relation: "rel": "canonical").</p>
-<p>Where data is provided through an interactive web service, a canonical
-link that provides a URL where one can directly download a data object
-may be complemented with an additional link providing the URL for the root
-of the web service from where one can interact with or query the entire
-dataset.</p>
-<p>If a download link implements access control (for example, the data consumer
-needs to take some additional action(s) to download the data object), the
-download link will contain a security object that provides the pertinent
-information (such as the access control mechanism used and where/how a
-data consumer would need to register to request access).</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>How to use the data?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Data is shared on WIS2 in accordance with the Unified Data Policy (Resolution
-1 (Cg-Ext (2021))). This data policy describes two categories of data:
-core and recommended.</p>
-<ul>
-<li>
-<p>Core data is considered essential for the provision of services for the
-protection of life and property and the well-being of all nations. Core
-data is provided on a free and unrestricted basis, without charge and with
-no conditions on use.</p>
-</li>
-<li>
-<p>Recommended data is exchanged on WIS2 in support of Earth system monitoring
-and prediction efforts. Recommended data <em>may</em> be provided with conditions
-on use and/or subject to a license.</p>
-</li>
-</ul>
-<p>Furthermore, the Unified Data Policy (Resolution 1 (Cg-Ext (2021))) encourages
-attribution of the source of the data in all cases. In this way, credit
-is given to those who have expended effort and resources in collecting,
-curating, generating, or processing the data. Attribution provides visibility
-of who is using data which, for many organizations, provides necessary
-evidence to justify continued provision of and updates to the data.</p>
-<p>Details of the applicable WMO data policy and any rights or licenses associated
-with data are provided in the discovery metadata that accompanies the data.
-Discovery metadata records are available from the Global Discovery Catalogue.</p>
-<p>The <em>Manual on WIS</em>, Volume II – Appendix F: WMO Core Metadata Profile,
-section 1.18 Properties / WMO data policy provides details on how data
-policy, rights and/or licenses are described in the discovery metadata.</p>
-<p>When using data from WIS2, data consumers:</p>
-<ul>
-<li>
-<p>Shall respect the conditions of use applicable to the data as expressed
-in the WMO data policy, rights statements, or licenses.</p>
-</li>
-<li>
-<p>Should attribute the source of the data.</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Further reading for data consumers</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>MQTT (Message Queuing Telemetry Transport) is a lightweight messaging
+protocol designed for efficient communication in IoT and M2M applications.
+MQTT uses a publish/subscribe model where clients publish messages to topics
+and subscribe to topics to receive messages.</p>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>In order to download the data, you will require an MQTT client or use
+a programming library for your preferred language (e.g., Paho for Python
+or Java). Some readily available MQTT clients are MQTT explorer and MQTT.fx.</p>
+<p></p>
 <p></p>
 </div>
 </details>
