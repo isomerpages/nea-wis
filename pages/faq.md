@@ -44,13 +44,11 @@ read below on how to search and find relevant datasets of interest.</p>
 <summary><strong>How to search the Global Discovery Catalogue to find datasets?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The first step is to determine which dataset or datasets contains the
-data that you need.</p>
-<p></p>
-<p>To do this, you may browse and search for discovery metadata, using keywords,
-geographic area of interest, temporal information, or free text, provided
-by the Global Discovery Catalogue. Discovery metadata follows a standard
-scheme (see Manual on WIS, Volume II – Appendix F: WMO Core Metadata Profile).</p>
+<p>To determine which dataset or datasets contains the data that you need.
+You may browse and search for discovery metadata, using keywords, geographic
+area of interest, temporal information, or free text, on the Global Discovery
+Catalogue. Discovery metadata follows a standard scheme (see Manual on
+WIS, Volume II – Appendix F: WMO Core Metadata Profile).</p>
 <p></p>
 <p>A key component of dataset records in the Global Discovery Catalogue is
 that of "actionable" links. A dataset record provides one to many links
@@ -78,6 +76,7 @@ brokers. Where data consumers need to use data rapidly once it has been
 published (such as input to a weather prediction model), they should subscribe
 to one or more Global Broker to get notifications messages using Message
 Queuing Telemetry Transport (MQTT) protocol.</p>
+<p></p>
 <p>In WIS2, notifications are republished by Global Brokers to ensure resilient
 distribution. Consequently, there will be multiple places where one can
 subscribe. Data consumers requiring real-time notifications must subscribe
@@ -97,10 +96,12 @@ core data on its own highly available data server and publishes a new notificati
 message advertising the availability of that data from the Global Cache
 location.</p>
 <p>Notifications from WIS2 Nodes and Global Caches are published on different
-topics: The root topic used by WIS2 Nodes is <code>origin</code>, while
-the root topic used by Global Caches is <code>cache</code>. Other than the
-root, the topic hierarchy is identical. For example, for synoptic weather
-observations published by Environment Canada:</p>
+topics:</p>
+<p></p>
+<p>The root topic used by WIS2 Nodes is <code>origin</code>, while the root
+topic used by Global Caches is <code>cache</code>. Other than the root,
+the topic hierarchy is identical. For example, for synoptic weather observations
+published by Environment Canada:</p>
 <ul>
 <li>
 <p>Environment and Climate Change Canada, Meteorological Service of Canada’s
