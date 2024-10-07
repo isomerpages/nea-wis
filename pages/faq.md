@@ -50,10 +50,11 @@ data classified as core can be downloaded from</p>
 <summary><strong>What is MQTT and how to download WIS 2.0 data?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>MQTT (Message Queuing Telemetry Transport) is a lightweight messaging
-protocol designed for efficient communication in IoT and M2M applications.
-MQTT uses a publish/subscribe model where clients publish messages to topics
-and subscribe to topics to receive messages.</p>
+<p>The MQTT protocol is to be used for all WIS2 publish-subscribe workflows
+(publication and subscription). MQTT (Message Queuing Telemetry Transport)
+is a lightweight messaging protocol designed for efficient communication
+in IoT and M2M applications. MQTT uses a publish/subscribe model where
+clients publish messages to topics and subscribe to topics to receive messages.</p>
 <p></p>
 <p>In order to download WIS 2.0 data, you will require an MQTT client or
 use a programming library for your preferred language (e.g., Paho for Python
