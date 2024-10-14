@@ -4,9 +4,8 @@ permalink: /smoke-haze-dispersion-model/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -14,11 +13,13 @@ description: ""
 <td rowspan="1" colspan="1">
 <h4><strong>ASMC SMOKE HAZE DISPERSION MODEL</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/ASMC_SMOKE_HAZE_DISPERSION_MODEL.png">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
