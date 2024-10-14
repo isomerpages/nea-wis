@@ -151,13 +151,15 @@ from the respective Global Cache’s data server.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>What is WIS 2.0?</summary>
+<summary><strong>What is WIS 2.0?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What is the organization of WIS?</summary>
+<summary><strong>What is the organization of WIS?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Centres operated by WMO Members and their collaborating organizations
 shall be</p>
@@ -165,11 +167,23 @@ shall be</p>
 infrastructure of WIS:</p>
 <p></p>
 <p>(a) Global Information System Centres (GISCs);</p>
+<p>GISCs primary role is to collect and information from WIS contributing
+centres in their area of responsibility and pass information to centres
+in their area and to send information meant for global distribution to
+the other GISCs. GISCs also ensure information from other regions is distributed
+or at least, available to, centres within the GISCs area of responsibility.</p>
 <p></p>
 <p>(b) Data Collection or Production Centres (DCPCs);</p>
-<p>The specific performance and functional requirements of a particular DCPC
-shall be determined by the programme it supports. ASMC</p>
-<p>(c) National Centres (NCs).</p>
+<p>These are centres that fulfil within specific WMO Programmes an international
+responsibility for the generation and provision for international distribution
+of data, forecast products, processed or value-added information, and/or
+for providing archiving services. ASMC is the DCPC for regional monitoring
+and alerting of transboundary smoke haze.</p>
+<p></p>
+<p>(c) National Centres (NCs)</p>
+<p>The NC is responsible for collecting and providing observational data
+and products intended for global or regional distribution to their responsible
+GISC or DCPC, and distributing data on a national basis.</p>
 </div>
 </details>
 <details class="isomer-details">
