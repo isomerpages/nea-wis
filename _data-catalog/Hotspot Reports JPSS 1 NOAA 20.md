@@ -4,9 +4,8 @@ permalink: /hotspot-reports-jpss-1-noaa-20/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -14,10 +13,12 @@ description: ""
 <td rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 ACTIVE FIRES 750M NEAR REAL-TIME VERSION</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_ACTIVE_FIRES_750M_STANDARD_VERSION.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_VIIRS.jpg">
 </div>
 </td>
 </tr>
@@ -254,9 +255,8 @@ Administration</p>
 <p></p>
 <hr>
 <h4></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -264,10 +264,12 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <h4><strong>NOAA-20/JPSS-1 ACTIVE FIRES 750M STANDARD VERSION</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/NOAA_20_JPSS_1_ACTIVE_FIRES_750M_STANDARD_VERSION.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_07_27_SUOMI_NPP_Active_Fires.png">
 </div>
 </td>
 </tr>
