@@ -82,13 +82,14 @@ messaging protocol designed for efficient communication in IoT and M2M
 applications. MQTT uses a publish/subscribe model where clients publish
 messages to topics and subscribe to topics to receive messages.</p>
 <p></p>
-<p>In order to download WIS 2.0 data, you will require an MQTT client or
-use a programming library for your preferred language (e.g., Paho for Python
-or Java). Some readily available and free to use MQTT clients are MQTT
-explorer and MQTT.fx.</p>
-<p></p>
-<p>You will be required to enter the global broker's address and port, provide
+<p>In order to download WIS 2.0 data, you will require an MQTT client. Some
+readily available and free to use MQTT clients are MQTT explorer and MQTT.fx.
+You will be required to enter the global broker's address and port, provide
 credentials, and subscribe to the topics of interest.</p>
+<p></p>
+<p>For a tutorial on how to connect using MQTT explorer, please refer to
+the following link: <a href="https://training.wis2box.wis.wmo.int/practical-sessions/connecting-to-wis2-over-mqtt/" rel="noopener noreferrer nofollow" target="_blank">Connecting to WIS2 over MQTT - WIS2 in a box training (wmo.int)</a>
+</p>
 <p></p>
 <p>In addition to the above, ASMC DCPC also provides an additional service
 of supporting email subscription and download. You may browse our data
