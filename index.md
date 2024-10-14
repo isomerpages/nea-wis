@@ -7,15 +7,16 @@ permalink: /
 notification: This site is under construction
 sections:
   - hero:
-      title: ""
-      background: /images/Hero_Banner.png
-      subtitle: ""
+      title: ASMC WIS2 Portal
+      background: /images/Landing_page_image.png
   - infobar:
       title: ASMC Products
       id: infobar
       description: This portal provides operational information and products on the
         weather and smoke haze situation in the ASEAN region.
       subtitle: ""
+      button: ""
+      url: ""
   - textcards:
       title: ""
       id: textcards
