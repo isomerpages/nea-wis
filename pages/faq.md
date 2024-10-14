@@ -151,45 +151,90 @@ from the respective Global Cache’s data server.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>What is WIS 2.0?</strong>
+<summary><strong>What is WIS2?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Since the Global Telecommunication System (GTS) entered operational life
+in 1971, it has been a reliable real-time exchange mechanism of essential
+data for WMO Members.</p>
 <p></p>
+<p>In 2007, the WMO Information System (WIS) entered operations to complement
+the GTS, providing a searchable catalogue and a Global Cache to enable
+additional discovery, access, and retrieval. The success of WIS was limited
+as the system only partially met the requirement of providing simple access
+to WMO data. Today’s technology developed for the Internet of Things (IoT)
+opens the possibility of creating a WIS2 able to stand to its expectations
+of delivering an increasing number and volume of real-time data to WMO
+centres in a reliable and cost-effective way.</p>
+<p></p>
+<p>WIS2 has been designed to meet the shortfalls of the current WIS and GTS,
+support the WMO’s Unified Data Policy and the Global Basic Observing Network
+(GBON), and meet the demand for high data volume, variety, velocity, and
+veracity.</p>
+<p></p>
+<p>WIS2 technical framework is based around three foundational pillars: leveraging
+open standards, simpler data exchange and cloud-ready solutions</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>What is the organization of WIS?</strong>
+<summary><strong>What are the components of WIS2?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Centres operated by WMO Members and their collaborating organizations
-shall be</p>
-<p>categorized as one of the three types of WIS centres forming the core
-infrastructure of WIS:</p>
 <p></p>
-<p>(a) Global Information System Centres (GISCs);</p>
-<p>GISCs primary role is to collect and information from WIS contributing
-centres in their area of responsibility and pass information to centres
-in their area and to send information meant for global distribution to
-the other GISCs. GISCs also ensure information from other regions is distributed
-or at least, available to, centres within the GISCs area of responsibility.</p>
+<p><u>WIS2 Nodes</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Data Collection or Production Centres (DCPCs) are centres that fulfil
+within specific WMO Programmes an international responsibility for the
+generation and provision for international distribution of data, forecast
+products, processed or value-added information, and/or for providing archiving
+services. ASMC is the DCPC for regional monitoring and alerting of transboundary
+smoke haze.</p>
 <p></p>
-<p>(b) Data Collection or Production Centres (DCPCs);</p>
-<p>These are centres that fulfil within specific WMO Programmes an international
-responsibility for the generation and provision for international distribution
-of data, forecast products, processed or value-added information, and/or
-for providing archiving services. ASMC is the DCPC for regional monitoring
-and alerting of transboundary smoke haze.</p>
+</li>
+<li>
+<p>National Centres (NCs) are responsible for collecting and providing observational
+data and products intended for global or regional distribution to their
+responsible GISC or DCPC, and distributing data on a national basis.</p>
+</li>
+</ul>
 <p></p>
-<p>(c) National Centres (NCs)</p>
-<p>The NC is responsible for collecting and providing observational data
-and products intended for global or regional distribution to their responsible
-GISC or DCPC, and distributing data on a national basis.</p>
+<p><u>Global Discovery Catalogue</u>: enables users to search all Datasets
+provided by Data Publishers and discover where and how to interact with
+those Datasets (e.g. subscribe to updates, access/download/visualize data,
+or access more detailed information about the Dataset);</p>
+<p></p>
+<p><u>Global Broker</u>: provides highly available messaging services where
+users may subscribe to notifications about all Datasets provided by Data
+Publishers;</p>
+<p></p>
+<p><u>Global Cache</u>: provides highly available download service for cached
+copies of Core data downloaded from Data Publishers’ Web-services;</p>
+<p></p>
+<p><u>Global Monitor</u>: gathers and displays system performance, data availability,
+and other metrics from all WIS2 Nodes and Global Services</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>What protocol does WIS2 use and how can I download the data?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>The MQTT protocol is used for all WIS2 publish-subscribe workflows (publication
+and subscription). MQTT (Message Queuing Telemetry Transport) is a lightweight
+messaging protocol designed for efficient communication in IoT and M2M
+applications. MQTT uses a publish/subscribe model where clients publish
+messages to topics and subscribe to topics to receive messages.</p>
 <p></p>
+<p>In order to download WIS 2.0 data, you will require an MQTT client or
+use a programming library for your preferred language (e.g., Paho for Python
+or Java). Some readily available and free to use MQTT clients are MQTT
+explorer and MQTT.fx.</p>
+<p></p>
+<p>You will be required to enter the global broker's address and port, provide
+credentials, and subscribe to the topics of interest.</p>
+<p></p>
+<p>In addition to the above, at ASMC DCPC also provides an additional service
+of supporting email subscription. You maybe</p>
 </div>
 </details>
 <details class="isomer-details">
