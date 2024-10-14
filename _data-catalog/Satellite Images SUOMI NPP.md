@@ -4,9 +4,8 @@ permalink: /satellite-images-suomi-npp/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -14,10 +13,12 @@ description: ""
 <td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS TRUE COLOUR IMAGE STANDARD VERSION</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_TRUE_COLOUR.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_late_true_color.jpg">
 </div>
 </td>
 </tr>
@@ -253,9 +254,8 @@ Administration</p>
 <p></p>
 <hr>
 <h4></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -263,10 +263,12 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS SMOKE HAZE RGB IMAGE STANDARD VERSION</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_SMOKE_HAZE_RGB.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Smoke_Haze.jpg">
 </div>
 </td>
 </tr>
@@ -510,9 +512,8 @@ Administration</p>
 <p></p>
 <hr>
 <h4></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -520,10 +521,12 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS TRUE COLOUR IMAGE NEAR REAL-TIME VERSION</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_TRUE_COLOUR.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_late_true_color.jpg">
 </div>
 </td>
 </tr>
@@ -768,9 +771,8 @@ Administration</p>
 <p></p>
 <hr>
 <h4></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -778,10 +780,12 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS SMOKE HAZE RGB IMAGE NEAR REAL-TIME VERSION</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_SMOKE_HAZE_RGB.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Smoke_Haze.jpg">
 </div>
 </td>
 </tr>
@@ -1018,9 +1022,8 @@ Administration</p>
 <p></p>
 <hr>
 <h4></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -1028,10 +1031,12 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS DYNAMIC DAY NIGHT BAND STANDARD VERSION</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_DYNAMIC_DAY_NIGHT.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_VIIRS.jpg">
 </div>
 </td>
 </tr>
@@ -1267,9 +1272,8 @@ Administration</p>
 <p></p>
 <hr>
 <h4></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -1277,10 +1281,11 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <h4><strong>SUOMI-NPP VIIRS DYNAMIC DAY NIGHT BAND NEAR REAL-TIME VERSION</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SUOMI_NPP_VIIRS_DYNAMIC_DAY_NIGHT.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_VIIRS.jpg">
 </div>
 </td>
 </tr>
