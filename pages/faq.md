@@ -149,3 +149,46 @@ from the respective Global Cache’s data server.</p>
 </details>
 </div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>What is WIS 2.0?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>What is the organization of WIS?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Centres operated by WMO Members and their collaborating organizations
+shall be</p>
+<p>categorized as one of the three types of WIS centres forming the core
+infrastructure of WIS:</p>
+<p></p>
+<p>(a) Global Information System Centres (GISCs);</p>
+<p></p>
+<p>(b) Data Collection or Production Centres (DCPCs);</p>
+<p>The specific performance and functional requirements of a particular DCPC
+shall be determined by the programme it supports. ASMC</p>
+<p>(c) National Centres (NCs).</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
