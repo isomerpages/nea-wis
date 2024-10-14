@@ -90,9 +90,9 @@ explorer and MQTT.fx.</p>
 <p>You will be required to enter the global broker's address and port, provide
 credentials, and subscribe to the topics of interest.</p>
 <p></p>
-<p>In addition to the above, at ASMC DCPC also provides an additional service
-of supporting email subscription. You may browse the data available in
-our catalog and clikc on the email subscription link if interested to download.</p>
+<p>In addition to the above, ASMC DCPC also provides an additional service
+of supporting email subscription and download. You may browse our data
+catalog and subscribe via the <a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener nofollow" target="_blank">email subscription link</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
