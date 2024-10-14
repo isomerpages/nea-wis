@@ -7,150 +7,6 @@ variant: tiptap
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>What is WIS 2.0?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>WIS2 has been designed to meet the shortfalls of the current WIS and GTS,
-support Resolution 1 (Cg-Ext(2021)) – WMO Unified Policy for the International
-Exchange of Earth System Data (<em><a href="https://library.wmo.int/idurl/4/57850" rel="noopener noreferrer nofollow" target="_blank"><u>World Meteorological Congress: Abridged Final Report of the Extraordinary Session</u></a></em> (WMO-No.
-1281)), support the Global Basic Observing Network (GBON) and meet the
-demand for high data volume, variety, velocity and veracity.</p>
-<p>WIS2 technical framework is based around three foundational pillars: leveraging
-open standards, simpler data exchange and cloud-ready solutions.</p>
-<p></p>
-<p>Three types of Global Services are used to enable the dissemination of
-data in the WIS2 network:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Global Broker:</strong> Globally accessible MQTT Broker that re-publishes
-data-notifications of all WIS 2.0 Nodes.&nbsp;The users of WIS 2.0 will
-be able to access data in real-time by subscribing to a Global Broker and
-receiving notifications when new data are available for download from a
-Global Cache or from the data provider.</p>
-</li>
-<li>
-<p><strong>Global Discovery Catalogue: </strong>Globally accessible catalogue,
-hosted on HTTP, storing WIS 2.0 Discovery Metadata records. The Global
-Discovery Catalogue allows users to discover the available datasets on
-WIS 2.0 and provide information on how and where to access the data.</p>
-</li>
-<li>
-<p><strong>Global Cache</strong>: Globally accessible HTTP-endpoint where
-data classified as core can be downloaded from</p>
-</li>
-</ul>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WIS_diagram.png">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>What is MQTT and how to download WIS 2.0 data?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The MQTT protocol is to be used for all WIS2 publish-subscribe workflows
-(publication and subscription). MQTT (Message Queuing Telemetry Transport)
-is a lightweight messaging protocol designed for efficient communication
-in IoT and M2M applications. MQTT uses a publish/subscribe model where
-clients publish messages to topics and subscribe to topics to receive messages.</p>
-<p></p>
-<p>In order to download WIS 2.0 data, you will require an MQTT client or
-use a programming library for your preferred language (e.g., Paho for Python
-or Java). Some readily available MQTT clients are MQTT explorer and MQTT.fx.</p>
-<p></p>
-<p>You will be required to enter the global broker's address and port, provide
-credentials if required, and subscribe to the topics of interest. Please
-read below on how to search and find relevant datasets of interest.</p>
-<p></p>
-<p>The HTTP protocol (RFC 7231) is to be used for all WIS2 download workflows.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>How to search the Global Discovery Catalogue to find datasets?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>To determine which dataset or datasets contains the data that you need.
-You may browse and search for discovery metadata, using keywords, geographic
-area of interest, temporal information, or free text, on the Global Discovery
-Catalogue. Discovery metadata follows a standard scheme (see Manual on
-WIS, Volume II – Appendix F: WMO Core Metadata Profile).</p>
-<p></p>
-<p>A key component of dataset records in the Global Discovery Catalogue is
-that of "actionable" links. A dataset record provides one to many links
-that clearly identify the nature and purpose of the link (informational,
-direct download, API, subscription) so that the data consumer can interact
-with the data accordingly. For example, a dataset record may include a
-link to subscribe to notifications (see below: How to subscribe to notifications
-about the availability of new data) about the data, or an API, or an offline
-archive retrieval service.</p>
-<p></p>
-<p>The Global Discovery Catalogue is accessible via an API and provides a
-low barrier mechanism. Internet search engines are able to index the discovery
-metadata in the Global Discovery Catalogue, thereby providing data consumers
-with an alternative means to search for WIS2 data.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>How to subscribe to notifications about the availability of new data?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>WIS2 provides notifications about updates to datasets; for example, when
-a new observation record from an automatic weather station is added to
-a dataset of surface observations. Notifications are published on message
-brokers. Where data consumers need to use data rapidly once it has been
-published (such as input to a weather prediction model), they should subscribe
-to one or more Global Broker to get notifications messages using Message
-Queuing Telemetry Transport (MQTT) protocol.</p>
-<p></p>
-<p>In WIS2, notifications are republished by Global Brokers to ensure resilient
-distribution. Consequently, there will be multiple places where one can
-subscribe. Data consumers requiring real-time notifications must subscribe
-to Global Brokers. A data consumer should subscribe to more than one Global
-Broker, thereby ensuring that notifications continue to be received if
-a Global Broker instance fails.</p>
-<p>A dataset in WIS2 is associated with a unique <em>topic</em>. Notifications
-about updates to a dataset are published to the associated topic. Topics
-are organized according to a standard scheme (see the <em>Manual on WIS</em>,
-Volume II - Appendix D: WIS2 Topic Hierarchy).</p>
-<p>A data consumer can find the appropriate topic to subscribe to either
-by searching the Global Discovery Catalogue, using an Internet search engine,
-or by browsing the topic hierarchy on a Message Broker.</p>
-<p>WIS2 uses Global Caches to distribute core data, as defined in the Unified
-Data Policy (Resolution 1 (Cg-Ext (2021))). Each Global Cache republishes
-core data on its own highly available data server and publishes a new notification
-message advertising the availability of that data from the Global Cache
-location.</p>
-<p>Notifications from WIS2 Nodes and Global Caches are published on different
-topics:</p>
-<p></p>
-<p>The root topic used by WIS2 Nodes is <code>origin</code>, while the root
-topic used by Global Caches is <code>cache</code>. Other than the root,
-the topic hierarchy is identical. For example, for synoptic weather observations
-published by Environment Canada:</p>
-<ul>
-<li>
-<p>Environment and Climate Change Canada, Meteorological Service of Canada’s
-WIS2 Node publishes to: <code>origin/a/wis2/ca-eccc-msc/data/core/weather/surface-based-observations/synop</code>
-</p>
-</li>
-<li>
-<p>Global Caches publish to: <code>cache/a/wis2/ca-eccc-msc/data/core/weather/surface-based-observations/synop</code>
-</p>
-</li>
-</ul>
-<p>As per clause 3.2.13 of the <em>Manual on WIS</em>, Volume II, data consumers
-should access core data from the Global Caches. Consequently, they need
-to subscribe to the <code>cache</code> topic hierarchy to receive the notifications
-from Global Caches, each of which provides a link (that is, URL) to download
-from the respective Global Cache’s data server.</p>
-</div>
-</details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>What is WIS2?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -217,7 +73,8 @@ and other metrics from all WIS2 Nodes and Global Services</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What protocol does WIS2 use and how can I download the data?</summary>
+<summary><strong>What protocol does WIS2 use and how can I download the data?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The MQTT protocol is used for all WIS2 publish-subscribe workflows (publication
 and subscription). MQTT (Message Queuing Telemetry Transport) is a lightweight
@@ -234,18 +91,244 @@ explorer and MQTT.fx.</p>
 credentials, and subscribe to the topics of interest.</p>
 <p></p>
 <p>In addition to the above, at ASMC DCPC also provides an additional service
-of supporting email subscription. You maybe</p>
+of supporting email subscription. You may browse the data available in
+our catalog and clikc on the email subscription link if interested to download.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>What are some useful links?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>You may browse the technical documents and guides at the <a href="https://library.wmo.int/records?search=&amp;refine[Languages_EN][]=English&amp;refine[WMO_Programmes_EN][]=WMO+Information+System+%28WIS%29&amp;sort=_score&amp;perpage=10&amp;page=1&amp;&amp;page=1" rel="noopener nofollow" target="_blank">WMO Library</a> or
+at the WIS2 <a href="https://github.com/wmo-im" rel="noopener nofollow" target="_blank">Github.</a>
+</p>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>In addition the follow are the current WIS2 Global Services:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Services</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Country/Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Website</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Broker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Australia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Melbourne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Broker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Beijing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">gb.wis.cma.cn</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Broker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>France</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toulouse</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">globalbroker.meteo.fr</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Broker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Germany</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Offenbach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Broker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>United States of America</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Washington</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">wis2globalbroker.nws.noaa.gov</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Cache</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Australia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Melbourne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Cache</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Germany</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Offenbach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://opendata.dwd.de/test/wis2/cache/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Cache</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Japan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tokyo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://wisdev.kishou.go.jp/data/wis2/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Cache</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic of Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seoul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://wis2data.kma.go.kr/cache/a/wis2/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Cache</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>United States of America</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Washington</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Discovery Catalogue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Beijing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://gdc.wis.cma.cn/dataService</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Discovery Catalogue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canada</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ottawa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://api.weather.gc.ca/collections/wis2-discovery-metadata</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Discovery Catalogue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic of Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seoul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global Monitoring</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Morocco</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Casablanca</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 </div>
 </details>
