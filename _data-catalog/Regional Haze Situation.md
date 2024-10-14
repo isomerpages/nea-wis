@@ -4,9 +4,8 @@ permalink: /regional-haze-situation/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -14,10 +13,12 @@ description: ""
 <td rowspan="1" colspan="1">
 <h4><strong>DAILY HAZE MAP IN THE ASEAN REGION</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/DAILY_HAZE_MAP_IN_THE_ASEAN_REGION.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Daily_Haze_Map.png">
 </div>
 </td>
 </tr>
