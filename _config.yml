@@ -2,19 +2,19 @@ title: MSS-ASMC WIS 2.0 Portal
 url: https://www.open.gov.sg
 favicon: /images/Favicon.jpg
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#01589b"
+  secondary-color: "#f87a1c"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#01589b"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#01589b"
     - title: media-color-three
-      color: "#00838f"
+      color: "#01589b"
     - title: media-color-four
-      color: "#00838f"
+      color: "#01589b"
     - title: media-color-five
-      color: "#00838f"
+      color: "#01589b"
 description: ""
 permalink: none
 baseurl: ""
