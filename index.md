@@ -31,7 +31,7 @@ sections:
         - title: Regional Haze Situation
           description: ""
           linktext: Learn more
-          url: /hotspot-reports-jpss-1-noaa-20/
+          url: /regional-haze-situation/
   - textcards:
       title: ""
       id: textcards
