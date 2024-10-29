@@ -31,8 +31,7 @@ description: ""
 <p><strong>This data contains the NOAA-20/JPSS-1 VIIRS True Colour RGB Image (375 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the delayed (8-12 hr) global VIIRS RDR data.</strong>
 </p>
 <p></p>
-<p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Email Subscription Request</a>
-</p>
+<a style="background-color: #0066cc; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;" target="_blank" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Click here to subscribe via email</a>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Metadata</summary>
