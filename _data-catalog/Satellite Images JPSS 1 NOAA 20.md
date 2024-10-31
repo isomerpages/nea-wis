@@ -19,7 +19,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_late_true_color.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/VIIRS_TRUE_COLOUR.jpg">
 </div>
 </td>
 </tr>
@@ -31,7 +31,8 @@ description: ""
 <p><strong>This data contains the NOAA-20/JPSS-1 VIIRS True Colour RGB Image (375 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the delayed (8-12 hr) global VIIRS RDR data.</strong>
 </p>
 <p></p>
-<a style="background-color: #0066cc; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;" target="_blank" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Click here to subscribe via email</a>
+<p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Click here to subscribe via email</a>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Metadata</summary>
@@ -268,7 +269,7 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Smoke_Haze.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SMOKE_HAZE_RGB.jpg">
 </div>
 </td>
 </tr>
@@ -517,7 +518,7 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_late_true_color.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/VIIRS_TRUE_COLOUR.jpg">
 </div>
 </td>
 </tr>
@@ -765,10 +766,10 @@ Administration</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Smoke_Haze.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SMOKE_HAZE_RGB.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -1017,7 +1018,7 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_VIIRS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/VIIRS_DAY_NIGHT_ENHANCED.jpg">
 </div>
 </td>
 </tr>
@@ -1263,8 +1264,9 @@ Administration</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_VIIRS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/VIIRS_DAY_NIGHT_ENHANCED.jpg">
 </div>
 </td>
 </tr>
