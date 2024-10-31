@@ -18,7 +18,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_VIIRS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/Active_Fires.png">
 </div>
 </td>
 </tr>
@@ -267,7 +267,7 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_07_27_SUOMI_NPP_Active_Fires.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/Active_Fires.png">
 </div>
 </td>
 </tr>
