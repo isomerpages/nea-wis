@@ -8,33 +8,14 @@ description: ""
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>What is WIS2?</strong>
+<summary><strong>How can I download the data through email?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Since the Global Telecommunication System (GTS) entered operational life
-in 1971, it has been a reliable real-time exchange mechanism of essential
-data for WMO Members.</p>
 <p></p>
-<p>In 2007, the WMO Information System (WIS) entered operations to complement
-the GTS, providing a searchable catalogue and a Global Cache to enable
-additional discovery, access, and retrieval. The success of WIS was limited
-as the system only partially met the requirement of providing simple access
-to WMO data. Today’s technology developed for the Internet of Things (IoT)
-opens the possibility of creating a WIS2 able to stand to its expectations
-of delivering an increasing number and volume of real-time data to WMO
-centres in a reliable and cost-effective way.</p>
-<p></p>
-<p>WIS2 has been designed to meet the shortfalls of the current WIS and GTS,
-support the WMO’s Unified Data Policy and the Global Basic Observing Network
-(GBON), and meet the demand for high data volume, variety, velocity, and
-veracity.</p>
-<p></p>
-<p>WIS2 technical framework is based around three foundational pillars: leveraging
-open standards, simpler data exchange and cloud-ready solutions</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>What are the components of WIS2?</strong>
+<summary><strong>How can i download the data through MQTT?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
