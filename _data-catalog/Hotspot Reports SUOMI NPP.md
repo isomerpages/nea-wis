@@ -55,7 +55,7 @@ description: ""
 <p>Conforms To</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</a>
+<p><a href="http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core" rel="noopener noreferrer nofollow" target="_blank">http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</a>
 </p>
 </td>
 </tr>
@@ -113,7 +113,7 @@ description: ""
 <p>Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
+<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
 </p>
 </td>
 </tr>
@@ -173,7 +173,7 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a>
+<p><a href="mailto:ASMC_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -207,7 +207,7 @@ Singapore 819643</p>
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://asmc.asean.org/home/</a>
+<p><a href="http://asmc.asean.org/home/" rel="noopener noreferrer nofollow" target="_blank">http://asmc.asean.org/home/</a>
 </p>
 </td>
 </tr>
@@ -216,16 +216,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/NPP_AFEDR_750M_NRT</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IP whitelisting request form</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form</a>
+<p><a href="https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/NPP_AFEDR_750M_NRT" rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/NPP_AFEDR_750M_NRT</a>
 </p>
 </td>
 </tr>
@@ -465,15 +456,6 @@ Changi Airport, Singapore 819643</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/NPP_AFEDR_750M_LATE" rel="noopener noreferrer nofollow" target="_blank"><u>https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/NPP_AFEDR_750M_LATE</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IP whitelisting request form</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form</u></a>
 </p>
 </td>
 </tr>
