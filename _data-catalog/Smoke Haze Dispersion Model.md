@@ -19,14 +19,15 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/ASMC_SMOKE_HAZE_DISPERSION_MODEL.png">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Abstract</strong>
 </p>
-<p><strong>The animation shows the estimated surface PM10 concentration over a 24-hour period from 00 to 24 UTC at 3-hourly intervals. A 24-hour look-ahead is provided for haze affecting the ASEAN region, based on numerical modelling. The predictive simulation is generally updated by 00 UTC each day; however the upload time will vary slightly depending on the number of fires detected and available input information.</strong>
+<p><strong>The animation shows the estimated surface PM10 concentration over a 24-hour period from 00 to 24 UTC at 3-hourly intervals.</strong>
+</p>
+<p><strong>A 24-hour look-ahead is provided for haze affecting the ASEAN region, based on numerical modelling. The predictive simulation is generally updated by 00 UTC each day; however the upload time will vary slightly depending on the number of fires detected and available input information.</strong>
 </p>
 <p></p>
 <p><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Email Subscription Request</a>
@@ -55,7 +56,7 @@ description: ""
 <p>Conforms To</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</a>
+<p><a href="http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core" rel="noopener noreferrer nofollow" target="_blank">http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</a>
 </p>
 </td>
 </tr>
@@ -113,7 +114,7 @@ description: ""
 <p>Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
+<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
 </p>
 </td>
 </tr>
@@ -183,7 +184,7 @@ and available input information.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a>
+<p><a href="mailto:ASMC_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -227,15 +228,6 @@ Singapore 819643</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/ASMC_SMOKE_HAZE_DISPERSION</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IP whitelisting request form</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/asmc-wis2-ip-whitelisting-request-form</a>
 </p>
 </td>
 </tr>
