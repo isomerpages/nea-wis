@@ -57,7 +57,7 @@ description: ""
 <p>Conforms To</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</a>
+<p><a href="http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core" rel="noopener nofollow" target="_blank">http://wis.wmo.int/spec/wcmp/2.0;http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core</a>
 </p>
 </td>
 </tr>
@@ -116,7 +116,7 @@ true colour rgb</p>
 <p>Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
+<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
 </p>
 </td>
 </tr>
@@ -175,7 +175,7 @@ is produced based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a>
+<p><a href="mailto:ASMC_Enquiries@nea.gov.sg" rel="noopener nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -674,7 +674,7 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a>
+<p><a href="mailto:ASMC_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1422,7 +1422,7 @@ recommended for near real-time monitoring of fire hotspots.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a>
+<p><a href="mailto:ASMC_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ASMC_Enquiries@nea.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1456,7 +1456,7 @@ Singapore 819643</p>
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://asmc.asean.org/home/</a>
+<p><a href="mailto:ASMC_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">http://asmc.asean.org/home/</a>
 </p>
 </td>
 </tr>
