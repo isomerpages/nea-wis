@@ -17,13 +17,14 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/Active_Fires.png">
-</div>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/hotspot_info.png">
+</div>
 <p><strong>Abstract</strong>
 </p>
 <p><strong>This data contains the Active Fires Environmental Data Record for NOAA-20/JPSS-1 VIIRS. The data is produced using CSPP Active Fires software. This version is produced based on the NRT data received locally. This data is recommended for near real-time monitoring of fire hotspots.</strong>
@@ -260,7 +261,7 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/Active_Fires.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/hotspot_info.png">
 </div>
 </td>
 </tr>
