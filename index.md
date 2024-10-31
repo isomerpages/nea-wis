@@ -10,7 +10,7 @@ notification: This site is currently in its pilot testing phase and is still
 sections:
   - hero:
       title: ASMC WIS 2.0 Pilot Portal
-      background: /images/Landing_page_image.png
+      background: /images/landing_page_image_hires.png
   - infobar:
       title: ASMC Products
       id: infobar
