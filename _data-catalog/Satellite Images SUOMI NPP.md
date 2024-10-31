@@ -18,7 +18,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_late_true_color.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/VIIRS_TRUE_COLOUR.jpg">
 </div>
 </td>
 </tr>
@@ -268,7 +268,7 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Smoke_Haze.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SMOKE_HAZE_RGB.jpg">
 </div>
 </td>
 </tr>
@@ -526,7 +526,7 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_late_true_color.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/VIIRS_TRUE_COLOUR.jpg">
 </div>
 </td>
 </tr>
@@ -785,7 +785,7 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Smoke_Haze.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/SMOKE_HAZE_RGB.jpg">
 </div>
 </td>
 </tr>
@@ -1036,7 +1036,7 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_VIIRS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/VIIRS_DAY_NIGHT_ENHANCED.jpg">
 </div>
 </td>
 </tr>
@@ -1284,8 +1284,9 @@ Administration</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPP_VIIRS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/VIIRS_DAY_NIGHT_ENHANCED.jpg">
 </div>
 </td>
 </tr>
