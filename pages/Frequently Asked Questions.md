@@ -8,10 +8,38 @@ description: ""
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>How can I download the data through email?</strong>
+<summary><strong>How can I subscribe to and download the data through email?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Complete the subscription form here: <a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/asmc-wis2-email-subscription-request-form</a>
+</p>
 <p></p>
+<p>Enter your details, ensuring your email address is correct.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAQ/FAQ_email_1.png">
+</div>
+<p></p>
+<p>Select your desired topics for subscription and submit the form.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAQ/FAQ_email_2.png">
+</div>
+<p></p>
+<p>Check your inbox for an email from Amazon Web Services. Click "Confirm
+Subscription" in the email to finalise your subscription.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAQ/FAQ_email_3.png">
+</div>
+<p></p>
+<p>You'll now receive email notifications when new data is available for
+your chosen topics.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAQ/FAQ_email_4.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
