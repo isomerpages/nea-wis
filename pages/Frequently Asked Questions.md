@@ -11,30 +11,50 @@ description: ""
 <summary><strong>How can I subscribe to and download the data through email?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ol data-tight="true" class="tight">
+<li>
 <p>Complete the subscription form here: <a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/asmc-wis2-email-subscription-request-form</a>
 </p>
+</li>
+</ol>
 <p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p>Enter your details, ensuring your email address is correct.</p>
+</li>
+</ol>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAQ/FAQ_email_1.png">
 </div>
 <p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
 <p>Select your desired topics for subscription and submit the form.</p>
+</li>
+</ol>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAQ/FAQ_email_2.png">
 </div>
 <p></p>
+<ol start="4" data-tight="true" class="tight">
+<li>
 <p>Check your inbox for an email from Amazon Web Services. Click "Confirm
 Subscription" in the email to finalise your subscription.</p>
+</li>
+</ol>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAQ/FAQ_email_3.png">
 </div>
 <p></p>
+<ol start="5" data-tight="true" class="tight">
+<li>
 <p>You'll now receive email notifications when new data is available for
 your chosen topics.</p>
+</li>
+</ol>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -43,48 +63,45 @@ your chosen topics.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How can i download the data through MQTT?</strong>
+<summary><strong>How can I subscribe to and download the data through an MQTT Client?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>In order to download WIS 2.0 data, you will require an MQTT client. MQTT
+explorer is one example of a free and readily available MQTT client which
+can be downloaded from the <a href="https://mqtt-explorer.com/" rel="noopener noreferrer nofollow" target="_blank">MQTT Explorer website</a>.</p>
 <p></p>
-<p><u>WIS2 Nodes</u>
-</p>
+<p>Open MQTT Explorer and add a new connection to one of the Global Brokers.
+As an example, we will connect to the Global Broker hosted by MeteoFrance
+using the following details:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Data Collection or Production Centres (DCPCs) are centres that fulfil
-within specific WMO Programmes an international responsibility for the
-generation and provision for international distribution of data, forecast
-products, processed or value-added information, and/or for providing archiving
-services. ASMC is the DCPC for regional monitoring and alerting of transboundary
-smoke haze.</p>
-<p></p>
+<p>host: <a href="http://globalbroker.meteo.fr" rel="noopener noreferrer nofollow" target="_blank">globalbroker.meteo.fr</a>
+</p>
 </li>
 <li>
-<p>National Centres (NCs) are responsible for collecting and providing observational
-data and products intended for global or regional distribution to their
-responsible GISC or DCPC, and distributing data on a national basis.</p>
+<p>port: 8883</p>
+</li>
+<li>
+<p>username: everyone</p>
+</li>
+<li>
+<p>password: everyone</p>
 </li>
 </ul>
 <p></p>
-<p><u>Global Discovery Catalogue</u>: enables users to search all Datasets
-provided by Data Publishers and discover where and how to interact with
-those Datasets (e.g. subscribe to updates, access/download/visualize data,
-or access more detailed information about the Dataset);</p>
+<p>Click on the 'ADVANCED' button, remove the pre-configured topics and add
+the following topics to subscribe to:</p>
+<p><strong>origin/a/wis2/sg-mss-asmc/data/recommended/#</strong>
+</p>
 <p></p>
-<p><u>Global Broker</u>: provides highly available messaging services where
-users may subscribe to notifications about all Datasets provided by Data
-Publishers;</p>
-<p></p>
-<p><u>Global Cache</u>: provides highly available download service for cached
-copies of Core data downloaded from Data Publishers’ Web-services;</p>
-<p></p>
-<p><u>Global Monitor</u>: gathers and displays system performance, data availability,
-and other metrics from all WIS2 Nodes and Global Services</p>
+<p>Click 'BACK', then 'SAVE' to save your connection and subscription details.
+Then click 'CONNECT'. Messages will start appearing in your MQTT Explorer
+as soon as new notification messages are available.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>What protocol does WIS2 use and how can I download the data?</strong>
-</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The MQTT protocol is used for all WIS2 publish-subscribe workflows (publication
 and subscription). MQTT (Message Queuing Telemetry Transport) is a lightweight
@@ -100,10 +117,6 @@ credentials, and subscribe to the topics of interest.</p>
 <p>For a tutorial on how to connect using MQTT explorer, please refer to
 the following link: <a href="https://training.wis2box.wis.wmo.int/practical-sessions/connecting-to-wis2-over-mqtt/" rel="noopener noreferrer nofollow" target="_blank">Connecting to WIS2 over MQTT - WIS2 in a box training (wmo.int)</a>
 </p>
-<p></p>
-<p>In addition to the above, ASMC DCPC also provides an additional service
-of supporting email subscription and download. You may browse our data
-catalog and subscribe via the <a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener nofollow" target="_blank">email subscription link</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
