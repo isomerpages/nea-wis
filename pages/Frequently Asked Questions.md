@@ -133,7 +133,7 @@ messages are available.</p>
 at the WIS2 <a href="https://github.com/wmo-im" rel="noopener nofollow" target="_blank">Github.</a>
 </p>
 <p></p>
-<p>In addition the follow are the current WIS2 Global Services:</p>
+<p>In addition the following are the current WIS2 Global Services:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
