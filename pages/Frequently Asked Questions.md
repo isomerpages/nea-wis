@@ -90,23 +90,37 @@ using the following details:</p>
 </li>
 <li>
 <p>password: everyone</p>
-<p></p>
+</li>
+<li>
+<p>Turn off Validate Certificate</p>
+</li>
+<li>
+<p>Turn on Encryption</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAQ/FAQ_email_6.png">
+</div>
 </li>
 </ul>
 </li>
 <li>
-<p>Click on the 'ADVANCED' button, remove the pre-configured topics and add
-the following topics to subscribe to:</p>
+<p>Click on the '<strong>ADVANCED</strong>' button, remove the pre-configured
+topics and add the following topics to subscribe to:</p>
 </li>
 </ol>
+<blockquote>
 <p><strong>origin/a/wis2/sg-mss-asmc/data/recommended/#</strong>
 </p>
+</blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAQ/FAQ_email_7.png">
+</div>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p>Click 'BACK', then 'SAVE' to save your connection and subscription details.
-Then click 'CONNECT'. Messages will start appearing in your MQTT Explorer
-as soon as new notification messages are available.</p>
+<p>Click '<strong>BACK</strong>', then '<strong>SAVE</strong>' to save your
+connection and subscription details. Then click '<strong>CONNECT</strong>'.
+Messages will start appearing in your MQTT Explorer as soon as new notification
+messages are available.</p>
 </li>
 </ol>
 </div>
