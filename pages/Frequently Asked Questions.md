@@ -66,14 +66,17 @@ your chosen topics.</p>
 <summary><strong>How can I subscribe to and download the data through an MQTT Client?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ol data-tight="true" class="tight">
+<li>
 <p>In order to download WIS 2.0 data, you will require an MQTT client. MQTT
 explorer is one example of a free and readily available MQTT client which
 can be downloaded from the <a href="https://mqtt-explorer.com/" rel="noopener noreferrer nofollow" target="_blank">MQTT Explorer website</a>.</p>
 <p></p>
+</li>
+<li>
 <p>Open MQTT Explorer and add a new connection to one of the Global Brokers.
 As an example, we will connect to the Global Broker hosted by MeteoFrance
 using the following details:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>host: <a href="http://globalbroker.meteo.fr" rel="noopener noreferrer nofollow" target="_blank">globalbroker.meteo.fr</a>
@@ -87,36 +90,25 @@ using the following details:</p>
 </li>
 <li>
 <p>password: everyone</p>
+<p></p>
 </li>
 </ul>
-<p></p>
+</li>
+<li>
 <p>Click on the 'ADVANCED' button, remove the pre-configured topics and add
 the following topics to subscribe to:</p>
+</li>
+</ol>
 <p><strong>origin/a/wis2/sg-mss-asmc/data/recommended/#</strong>
 </p>
 <p></p>
+<ol start="4" data-tight="true" class="tight">
+<li>
 <p>Click 'BACK', then 'SAVE' to save your connection and subscription details.
 Then click 'CONNECT'. Messages will start appearing in your MQTT Explorer
 as soon as new notification messages are available.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The MQTT protocol is used for all WIS2 publish-subscribe workflows (publication
-and subscription). MQTT (Message Queuing Telemetry Transport) is a lightweight
-messaging protocol designed for efficient communication in IoT and M2M
-applications. MQTT uses a publish/subscribe model where clients publish
-messages to topics and subscribe to topics to receive messages.</p>
-<p></p>
-<p>In order to download WIS 2.0 data, you will require an MQTT client. Some
-readily available and free to use MQTT clients are MQTT explorer and MQTT.fx.
-You will be required to enter the global broker's address and port, provide
-credentials, and subscribe to the topics of interest.</p>
-<p></p>
-<p>For a tutorial on how to connect using MQTT explorer, please refer to
-the following link: <a href="https://training.wis2box.wis.wmo.int/practical-sessions/connecting-to-wis2-over-mqtt/" rel="noopener noreferrer nofollow" target="_blank">Connecting to WIS2 over MQTT - WIS2 in a box training (wmo.int)</a>
-</p>
+</li>
+</ol>
 </div>
 </details>
 <details class="isomer-details">
@@ -172,7 +164,7 @@ at the WIS2 <a href="https://github.com/wmo-im" rel="noopener nofollow" target="
 <p>Beijing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gb.wis.cma.cn</a>
+<p><a href="gb.wis.cma.cn" rel="noopener noreferrer nofollow" target="_blank">gb.wis.cma.cn</a>
 </p>
 </td>
 </tr>
@@ -187,7 +179,7 @@ at the WIS2 <a href="https://github.com/wmo-im" rel="noopener nofollow" target="
 <p>Toulouse</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">globalbroker.meteo.fr</a>
+<p><a href="globalbroker.meteo.fr" rel="noopener noreferrer nofollow" target="_blank">globalbroker.meteo.fr</a>
 </p>
 </td>
 </tr>
@@ -216,7 +208,7 @@ at the WIS2 <a href="https://github.com/wmo-im" rel="noopener nofollow" target="
 <p>Washington</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wis2globalbroker.nws.noaa.gov</a>
+<p><a href="wis2globalbroker.nws.noaa.gov" rel="noopener noreferrer nofollow" target="_blank">wis2globalbroker.nws.noaa.gov</a>
 </p>
 </td>
 </tr>
@@ -245,7 +237,7 @@ at the WIS2 <a href="https://github.com/wmo-im" rel="noopener nofollow" target="
 <p>Offenbach</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://opendata.dwd.de/test/wis2/cache/</a>
+<p><a href="https://opendata.dwd.de/test/wis2/cache/" rel="noopener noreferrer nofollow" target="_blank">https://opendata.dwd.de/test/wis2/cache/</a>
 </p>
 </td>
 </tr>
@@ -260,7 +252,7 @@ at the WIS2 <a href="https://github.com/wmo-im" rel="noopener nofollow" target="
 <p>Tokyo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://wisdev.kishou.go.jp/data/wis2/</a>
+<p><a href="https://wisdev.kishou.go.jp/data/wis2/" rel="noopener noreferrer nofollow" target="_blank">https://wisdev.kishou.go.jp/data/wis2/</a>
 </p>
 </td>
 </tr>
@@ -275,7 +267,7 @@ at the WIS2 <a href="https://github.com/wmo-im" rel="noopener nofollow" target="
 <p>Seoul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://wis2data.kma.go.kr/cache/a/wis2/</a>
+<p><a href="https://wis2data.kma.go.kr/cache/a/wis2/" rel="noopener noreferrer nofollow" target="_blank">https://wis2data.kma.go.kr/cache/a/wis2/</a>
 </p>
 </td>
 </tr>
@@ -304,7 +296,7 @@ at the WIS2 <a href="https://github.com/wmo-im" rel="noopener nofollow" target="
 <p>Beijing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://gdc.wis.cma.cn/dataService</a>
+<p><a href="https://gdc.wis.cma.cn/dataService" rel="noopener noreferrer nofollow" target="_blank">https://gdc.wis.cma.cn/dataService</a>
 </p>
 </td>
 </tr>
@@ -319,7 +311,7 @@ at the WIS2 <a href="https://github.com/wmo-im" rel="noopener nofollow" target="
 <p>Ottawa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://api.weather.gc.ca/collections/wis2-discovery-metadata</a>
+<p><a href="https://api.weather.gc.ca/collections/wis2-discovery-metadata" rel="noopener noreferrer nofollow" target="_blank">https://api.weather.gc.ca/collections/wis2-discovery-metadata</a>
 </p>
 </td>
 </tr>
