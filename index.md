@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: MSS-ASMC WIS 2.0 Portal
+title: ASMC WIS 2.0 Pilot Portal
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
