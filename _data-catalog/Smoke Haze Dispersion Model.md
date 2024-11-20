@@ -17,7 +17,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/ASMC_SMOKE_HAZE_DISPERSION_MODEL.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2 Images/asmc_smoke_haze_dispersion_model.png">
 </div>
 </td>
 </tr>
