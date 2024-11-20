@@ -239,6 +239,14 @@ Singapore 819643</p>
 <p>mqtts://everyone:<a rel="noopener noreferrer nofollow" target="_blank">everyone@globalbroker.meteo.fr:8883</a>/</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Data notifications from WMO WIS2 Global Broker - China Meteorological Administration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mqtts://everyone:<a rel="noopener noreferrer nofollow" target="_blank">everyone@gb.wis.cma.cn:8883</a>/</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
