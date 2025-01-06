@@ -30,7 +30,7 @@ description: ""
 <p><strong>A 24-hour look-ahead is provided for haze affecting the ASEAN region, based on numerical modelling. The predictive simulation is generally updated by 00 UTC each day; however the upload time will vary slightly depending on the number of fires detected and available input information.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Click Here to Subscribe via Email</a>
+<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
