@@ -29,7 +29,7 @@ description: ""
 <p><strong>The hotspots depicted in the map are derived from the NOAA satellite and they represent locations with possible active fires. Hotspots may go undetected due to cloudy conditions or incomplete satellite pass. The 2500 ft winds (depicted by arrows) are model analysis winds.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Click Here to Subscribe via Email</a>
+<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
