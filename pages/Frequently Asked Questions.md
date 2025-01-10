@@ -110,6 +110,8 @@ topics and add the following topics to subscribe to:</p>
 <blockquote>
 <p><strong>origin/a/wis2/sg-mss-asmc/data/recommended/#</strong>
 </p>
+<p><strong>origin/#</strong>
+</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
