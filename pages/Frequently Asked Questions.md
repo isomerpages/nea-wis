@@ -108,7 +108,7 @@ topics and add the following topics to subscribe to:</p>
 </li>
 </ol>
 <blockquote>
-<p><strong>origin/a/wis2/sg-mss-asmc/data/recommended/#</strong>
+<p><strong>origin/a/wis2/sg-mss-asmc/#</strong>
 </p>
 <p><strong>origin/#</strong>
 </p>
