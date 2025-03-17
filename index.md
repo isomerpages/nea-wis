@@ -1,37 +1,51 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: ASMC WIS 2.0 Pilot Portal
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: This site is under construction
+notification: This site is currently in its pilot testing phase and is still
+  undergoing enhancements. We appreciate your patience and feedback as we work
+  to improve your experience.
 sections:
   - hero:
-      title: Welcome to the MSS-ASMC WIS 2.0 Portal
-      background: /images/hero-banner.png
-      dropdown:
-        title: Menu
-        options:
-          - title: DATA CATALOG
-            url: "#"
-          - title: EMAIL SUBSCRIPTION
-            url: http://https://teams.microsoft.com/l/message/19:2e2b8294-e1ca-4998-811d-cfde8d997a4c_e741dcb4-31e4-4580-837b-1e3a9d8e3ef6@unq.gbl.spaces/1712641174305?context=%7B%22contextType%22%3A%22chat%22%7D
-  - textcards:
+      title: ASMC WIS 2.0 Pilot Portal
+      background: /images/landing_page_image_hires.png
+  - infobar:
       title: ASMC Products
-      id: textcards
+      id: infobar
       description: This portal provides operational information and products on the
         weather and smoke haze situation in the ASEAN region.
+  - textcards:
+      title: ""
+      id: textcards
       cards:
         - title: Satellite Images
           description: JPSS-1/NOAA-20
           linktext: View
-          url: ""
+          url: /satellite-images-jpss-1-noaa-20/
         - title: Satellite Images
           description: SUOMI-NPP
           linktext: View
-          url: ""
+          url: /satellite-images-suomi-npp/
+        - title: Regional Haze Situation
+          description: ""
+          linktext: Learn more
+          url: /regional-haze-situation/
+  - textcards:
+      title: ""
+      id: textcards
+      cards:
         - title: Hotspot Reports
           description: JPSS-1/NOAA-20
           linktext: View
-          url: ""
+          url: /hotspot-reports-jpss-1-noaa-20/
+        - title: Hotspot Reports
+          description: SUOMI-NPP
+          linktext: View
+          url: /hotspot-reports-suomi-npp/
+        - title: Smoke Haze Dispersion Model
+          description: ""
+          linktext: View
+          url: /smoke-haze-dispersion-model/
 ---
