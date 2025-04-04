@@ -79,8 +79,7 @@ As an example, we will connect to the Global Broker hosted by MeteoFrance
 using the following details:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>host: <a href="http://globalbroker.meteo.fr" rel="noopener noreferrer nofollow" target="_blank">globalbroker.meteo.fr</a>
-</p>
+<p>host: globalbroker.meteo.fr</p>
 </li>
 <li>
 <p>port: 8883</p>
