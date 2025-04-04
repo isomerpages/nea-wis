@@ -352,15 +352,6 @@ rgb, npp_satellite</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Scheme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Created</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -601,15 +592,6 @@ colour rgb</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Scheme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Created</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -839,15 +821,6 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p>suomi-npp, npp, fire hotspot, active fires, nrt version, smoke haze rgb,
 npp_satellite</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Scheme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -1085,15 +1058,6 @@ day night band, viirs, npp_satellite</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Scheme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Created</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1322,15 +1286,6 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p>suomi-npp, npp, fire hotspot, active fires, nrt version, dynamic day night
 band, viirs, npp_satellite</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Scheme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
-</p>
 </td>
 </tr>
 <tr>
