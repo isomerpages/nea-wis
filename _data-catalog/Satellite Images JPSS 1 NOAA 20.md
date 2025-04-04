@@ -110,17 +110,7 @@ description: ""
 true colour rgb</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Scheme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<tr><td rowspan="1" colspan="1">
 <p>Created</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,15 +337,6 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p>noaa-20, jpss-1, fire hotspot, active fires, standard version, smoke haze
 rgb, jpss_satellite</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Scheme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -587,15 +568,6 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p>noaa20 jpss-1, jpss_satellite, fire hotspot, active fires, nrt version,
 true colour rgb</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Scheme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -832,15 +804,6 @@ jpss_satellite</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Scheme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Created</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1073,15 +1036,6 @@ day night band, viirs, jpss_satellite</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Scheme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Created</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1309,15 +1263,6 @@ Administration</p>
 <td rowspan="1" colspan="1">
 <p>noaa-20, jpss-1, fire hotspot, active fires, nrt version, dynamic day
 night band, viirs, jpss_satellite</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Scheme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" rel="noopener noreferrer nofollow" target="_blank">http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode</a>
-</p>
 </td>
 </tr>
 <tr>
