@@ -209,7 +209,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_AFEDR_750M_NRT" rel="noopener noreferrer nofollow" target="_blank"><u>https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_AFEDR_750M_NRT</u></a>
+<p><a href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_afedr_750m_nrt/items/JP1_AFEDR_750M_NRT" rel="noopener noreferrer nofollow" target="_blank"><u>https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_afedr_750m_nrt/items/JP1_AFEDR_750M_NRT</u></a>
 </p>
 </td>
 </tr>
@@ -441,7 +441,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_AFEDR_750M_LATE" rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_AFEDR_750M_LATE</a>
+<p><a href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_afedr_750m_late/items/JP1_AFEDR_750M_LATE" rel="noopener noreferrer nofollow" target="_blank">https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_afedr_750m_late/items/JP1_AFEDR_750M_LATE</a>
 </p>
 </td>
 </tr>

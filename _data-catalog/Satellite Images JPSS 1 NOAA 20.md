@@ -207,14 +207,24 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_TRUECOLOUR_375M_JPG_LATE" rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_TRUECOLOUR_375M_JPG_LATE</a>
+<p><a rowspan="1" href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_truecolour_375m_jpg_late/items/JP1_VIIRS_TRUECOLOUR_375M_JPG_LATE</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Data notifications from WMO WIS2 Global Broker - Meteo France</p>
+<td colspan=" rel="noopener noreferrer nofollow" target="_blank">
+</a></p><p><a rowspan="1" href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_truecolour_375m_jpg_late/items/JP1_VIIRS_TRUECOLOUR_375M_JPG_LATE</a>
+</p>
 </td>
+</tr>
+<tr>
+<td colspan=" rel="noopener noreferrer nofollow" target="_blank">Data notifications from WMO WIS2 Global Broker - Meteo France</a></p><a rowspan="1" href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_truecolour_375m_jpg_late/items/JP1_VIIRS_TRUECOLOUR_375M_JPG_LATE</a>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan=" rel="noopener noreferrer nofollow" target="_blank">
+</a></td>
 <td rowspan="1" colspan="1">
 <p>mqtts://everyone:<a rel="noopener noreferrer nofollow" target="_blank">everyone@globalbroker.meteo.fr:8883</a>/</p>
 </td>
@@ -437,7 +447,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_SMOKEHAZE_375M_JPG_LATE" rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_SMOKEHAZE_375M_JPG_LATE</a>
+<p><a href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_smokehaze_375m_jpg_late/items/JP1_VIIRS_SMOKEHAZE_375M_JPG_LATE" rel="noopener noreferrer nofollow" target="_blank">https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_smokehaze_375m_jpg_late/items/JP1_VIIRS_SMOKEHAZE_375M_JPG_LATE</a>
 </p>
 </td>
 </tr>
@@ -669,7 +679,7 @@ Changi Airport, Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_TRUECOLOUR_375M_JPG_NRT" rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_TRUECOLOUR_375M_JPG_NRT</a>
+<p><a href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_truecolour_375m_jpg_nrt/items/JP1_VIIRS_TRUECOLOUR_375M_JPG_NRT" rel="noopener noreferrer nofollow" target="_blank">https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_truecolour_375m_jpg_nrt/items/JP1_VIIRS_TRUECOLOUR_375M_JPG_NRT</a>
 </p>
 </td>
 </tr>
@@ -901,7 +911,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_SMOKEHAZE_375M_JPG_NRT" rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_SMOKEHAZE_375M_JPG_NRT</a>
+<p><a href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_smokehaze_375m_jpg_late/items/JP1_VIIRS_SMOKEHAZE_375M_JPG_LATE" rel="noopener noreferrer nofollow" target="_blank">https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_smokehaze_375m_jpg_late/items/JP1_VIIRS_SMOKEHAZE_375M_JPG_LATE</a>
 </p>
 </td>
 </tr>
@@ -1132,7 +1142,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_DYNAMICDNB_750M_JPG_LATE" rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_DYNAMICDNB_750M_JPG_LATE</a>
+<p><a href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_dynamicdnb_750m_jpg_late/items/JP1_VIIRS_DYNAMICDNB_750M_JPG_LATE" rel="noopener noreferrer nofollow" target="_blank">https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_dynamicdnb_750m_jpg_late/items/JP1_VIIRS_DYNAMICDNB_750M_JPG_LATE</a>
 </p>
 </td>
 </tr>
@@ -1364,7 +1374,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_DYNAMICDNB_750M_JPG_NRT" rel="noopener noreferrer nofollow" target="_blank">https://esl65wys5i.execute-api.ap-southeast-1.amazonaws.com/v1/JP1_VIIRS_DYNAMICDNB_750M_JPG_NRT</a>
+<p><a href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_dynamicdnb_750m_jpg_nrt/items/JP1_VIIRS_DYNAMICDNB_750M_JPG_NRT" rel="noopener noreferrer nofollow" target="_blank">https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_dynamicdnb_750m_jpg_nrt/items/JP1_VIIRS_DYNAMICDNB_750M_JPG_NRT</a>
 </p>
 </td>
 </tr>
