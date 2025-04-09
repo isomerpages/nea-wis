@@ -1,7 +1,7 @@
 ---
 title: Satellite Images SUOMI NPP
 permalink: /satellite-images-suomi-npp/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <table style="minWidth: 25px">
@@ -29,7 +29,7 @@ description: ""
 <p><strong>This data contains the Suomi-NPP VIIRS True Colour RGB Image (375 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the delayed (8-12 hr) global VIIRS RDR data.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -173,7 +173,7 @@ based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -261,7 +261,7 @@ Administration</p>
 <p><strong>This data contains the Suomi-NPP VIIRS Smoke Haze RGB Image (375 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the delayed (8-12 hr) global VIIRS RDR data.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -405,7 +405,7 @@ based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -501,7 +501,7 @@ Administration</p>
 <p><strong>This data contains the Suomi-NPP VIIRS True Colour RGB Image (375 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the NRT data received locally. This data is recommended for near real-time monitoring of fire hotspots.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -646,7 +646,7 @@ real-time monitoring of fire hotspots.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -734,7 +734,7 @@ Administration</p>
 <p><strong>This data contains the Suomi-NPP VIIRS Smoke Haze RGB Image (375 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the NRT data received locally. This data is recommended for near real-time monitoring of fire hotspots.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -879,7 +879,7 @@ real-time monitoring of fire hotspots.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -967,7 +967,7 @@ Administration</p>
 <p><strong>This data contains the SUOMI-NPP VIIRS Dynamic Day Night Band Image (750 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the delayed (8-12 hr) global VIIRS RDR data.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -1111,7 +1111,7 @@ is produced based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -1199,7 +1199,7 @@ Administration</p>
 <p><strong>This data contains the SUOMI-NPP VIIRS Dynamic Day Night Band Image (750 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the NRT data received locally. This data is recommended for near real-time monitoring of fire hotspots.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -1344,7 +1344,7 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
