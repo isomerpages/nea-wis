@@ -1,7 +1,7 @@
 ---
 title: Regional Haze Situation
 permalink: /regional-haze-situation/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <table style="minWidth: 25px">
@@ -29,7 +29,7 @@ description: ""
 <p><strong>The hotspots depicted in the map are derived from the NOAA satellite and they represent locations with possible active fires. Hotspots may go undetected due to cloudy conditions or incomplete satellite pass. The 2500 ft winds (depicted by arrows) are model analysis winds.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -181,7 +181,7 @@ due to cloudy conditions or incomplete satellite pass.\nThe 2500 ft winds
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
