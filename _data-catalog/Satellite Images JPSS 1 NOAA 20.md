@@ -1,7 +1,7 @@
 ---
 title: Satellite Images JPSS 1 NOAA 20
 permalink: /satellite-images-jpss-1-noaa-20/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4></h4>
@@ -31,7 +31,8 @@ description: ""
 <p><strong>This data contains the NOAA-20/JPSS-1 VIIRS True Colour RGB Image (375 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the delayed (8-12 hr) global VIIRS RDR data.</strong>
 </p>
 <p></p>
-<a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Metadata</summary>
@@ -110,7 +111,8 @@ description: ""
 true colour rgb</p>
 </td>
 </tr>
-<tr><td rowspan="1" colspan="1">
+<tr>
+<td rowspan="1" colspan="1">
 <p>Created</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,7 +175,7 @@ is produced based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -207,26 +209,14 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rowspan="1" href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_truecolour_375m_jpg_late/items/JP1_VIIRS_TRUECOLOUR_375M_JPG_LATE</a>
+<p></p>
+<p><a href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_truecolour_375m_jpg_late/items/JP1_VIIRS_TRUECOLOUR_375M_JPG_LATE</a>
 </p>
 </td>
 </tr>
 <tr>
-<td colspan=" rel="noopener noreferrer nofollow" target="_blank">
-</a></p><p><a rowspan="1" href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_truecolour_375m_jpg_late/items/JP1_VIIRS_TRUECOLOUR_375M_JPG_LATE</a>
+<td colspan=" rel="noopener noreferrer nofollow" target="_blank">Data notifications from WMO WIS2 Global Broker - Meteo France</a>
 </p>
-</td>
-</tr>
-<tr>
-<td colspan=" rel="noopener noreferrer nofollow" target="_blank">Data notifications from WMO WIS2 Global Broker - Meteo France</a></p><a rowspan="1" href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/jp1_viirs_truecolour_375m_jpg_late/items/JP1_VIIRS_TRUECOLOUR_375M_JPG_LATE</a>
-</p>
-</td>
-</tr>
-<tr>
-<td colspan=" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
-<td rowspan="1" colspan="1">
-<p>mqtts://everyone:<a rel="noopener noreferrer nofollow" target="_blank">everyone@globalbroker.meteo.fr:8883</a>/</p>
 </td>
 </tr>
 <tr>
@@ -270,7 +260,8 @@ Administration</p>
 <p><strong>This data contains the NOAA-20/JPSS-1 VIIRS Smoke Haze RGB Image (375 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the delayed (8-12 hr) global VIIRS RDR data.</strong>
 </p>
 <p></p>
-<a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Metadata</summary>
@@ -413,7 +404,7 @@ is produced based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -500,7 +491,7 @@ Administration</p>
 <p><strong>This data contains the NOAA-20/JPSS-1 VIIRS True Colour RGB Image (375 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the NRT data received locally. This data is recommended for near real-time monitoring of fire hotspots.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -645,7 +636,7 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -732,7 +723,7 @@ Administration</p>
 <p><strong>This data contains the NOAA-20/JPSS-1 VIIRS Smoke Haze RGB Image (375 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the NRT data received locally. This data is recommended for near real-time monitoring of fire hotspots.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -877,7 +868,7 @@ for near real-time monitoring of fire hotspots.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -964,7 +955,7 @@ Administration</p>
 <p><strong>This data contains the NOAA-20/JPSS-1 VIIRS Dynamic Day Night Band Image (750 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the delayed (8-12 hr) global VIIRS RDR data.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -1108,7 +1099,7 @@ version is produced based on the delayed (8-12 hr) global VIIRS RDR data.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -1195,7 +1186,7 @@ Administration</p>
 <p><strong>This data contains the NOAA-20/JPSS-1 VIIRS Dynamic Day Night Band Image (750 m resolution). The image is overlaid with fire hotspot data. This version is produced based on the NRT data received locally. This data is recommended for near real-time monitoring of fire hotspots.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -1340,7 +1331,7 @@ recommended for near real-time monitoring of fire hotspots.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
