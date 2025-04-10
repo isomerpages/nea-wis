@@ -1,7 +1,7 @@
 ---
 title: Smoke Haze Dispersion Model
 permalink: /smoke-haze-dispersion-model/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <table style="minWidth: 25px">
@@ -30,7 +30,7 @@ description: ""
 <p><strong>A 24-hour look-ahead is provided for haze affecting the ASEAN region, based on numerical modelling. The predictive simulation is generally updated by 00 UTC each day; however the upload time will vary slightly depending on the number of fires detected and available input information.</strong>
 </p>
 <p></p>
-<p><a style="display: inline-block; padding: 10px 20px; background-color: orange; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;" href="https://go.gov.sg/asmc-wis2-email-subscription-request-form">Subscribe</a>
+<p><strong><a href="https://go.gov.sg/asmc-wis2-email-subscription-request-form" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -184,7 +184,7 @@ and available input information.</p>
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6565422837</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +232,8 @@ Singapore 819643</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Data notifications from WMO WIS2 Global Broker - China Meteorological Administration</p>
+<p>Data notifications from WMO WIS2 Global Broker - China Meteorological
+Administration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mqtts://everyone:<a rel="noopener noreferrer nofollow" target="_blank">everyone@gb.wis.cma.cn:8883</a>/</p>
