@@ -207,7 +207,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/NPP_AFEDR_750M_NRT/items/NPP_AFEDR_750M_NRT" rel="noopener noreferrer nofollow" target="_blank">https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/NPP_AFEDR_750M_NRT/items/NPP_AFEDR_750M_NRT</a>
+<p><a href="https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/npp_afedr_750m_nrt/items/NPP_AFEDR_750M_NRT" rel="noopener noreferrer nofollow" target="_blank">https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/npp_afedr_750m_nrt/items/NPP_AFEDR_750M_NRT</a>
 </p>
 </td>
 </tr>
@@ -438,7 +438,7 @@ Changi Airport, Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/npp_afedr_750m_late/items/NPP_AFEDR_750M_LATE" rel="noopener noreferrer nofollow" target="_blank"><u>https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/npp_afedr_750m_late/items/NPP_AFEDR_750M_LATE</u></a>
+<p><a href="https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/npp_afedr_750m_late/items/NPP_AFEDR_750M_LATE" rel="noopener noreferrer nofollow" target="_blank">https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/npp_afedr_750m_late/items/NPP_AFEDR_750M_LATE</a>
 </p>
 </td>
 </tr>
