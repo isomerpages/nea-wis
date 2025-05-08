@@ -441,7 +441,8 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/jp1_afedr_750m_late/items/JP1_AFEDR_750M_LATE</p>
+<p><a href="https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/jp1_afedr_750m_late/items/JP1_AFEDR_750M_LATE" rel="noopener noreferrer nofollow" target="_blank">https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/jp1_afedr_750m_late/items/JP1_AFEDR_750M_LATE</a>
+</p>
 </td>
 </tr>
 <tr>
