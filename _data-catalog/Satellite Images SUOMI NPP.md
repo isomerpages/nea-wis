@@ -207,7 +207,8 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/npp_viirs_truecolour_375m_jpg_late/items/NPP_VIIRS_TRUECOLOUR_375M_JPG_LATE</p>
+<p><a href="https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/npp_viirs_truecolour_375m_jpg_late/items/NPP_VIIRS_TRUECOLOUR_375M_JPG_LATE" rel="noopener noreferrer nofollow" target="_blank">https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/npp_viirs_truecolour_375m_jpg_late/items/NPP_VIIRS_TRUECOLOUR_375M_JPG_LATE</a>
+</p>
 </td>
 </tr>
 <tr>
