@@ -218,7 +218,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://mzl2ty3d1g.execute-api.ap-southeast-1.amazonaws.com/v1/api/collections/asmc_smoke_haze_dispersion/items/ASMC_SMOKE_HAZE_DISPERSION</a>
+<p><a href="https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/asmc_smoke_haze_dispersion/items/ASMC_SMOKE_HAZE_DISPERSION" rel="noopener noreferrer nofollow" target="_blank">https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/asmc_smoke_haze_dispersion/items/ASMC_SMOKE_HAZE_DISPERSION</a>
 </p>
 </td>
 </tr>
