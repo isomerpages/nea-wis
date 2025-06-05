@@ -215,8 +215,7 @@ Singapore 819643</p>
 <p>Data access API</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/regional_haze/items/REGIONAL_HAZE_MAP" rel="noopener noreferrer nofollow" target="_blank">https://z9ppn1a4nj.execute-api.ap-southeast-1.amazonaws.com/v1/collections/regional_haze/items/REGIONAL_HAZE_MAP</a>
-</p>
+<p>(Coming Soon)</p>
 </td>
 </tr>
 <tr>
